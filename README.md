@@ -1,6 +1,6 @@
 # Ewa – 30 listopada 2025
 
-Autentyczny, nieprzetworzony fragment logów z prywatnego projektu uruchomionego lokalnie na jednym domowym komputerze (Mistral-7B, Python, SWL.exe).
+Autentyczny, nieprzetworzony fragment logów z prywatnego projektu uruchomionego lokalnie na jednym domowym komputerze (*******).
 
 Bez kodu źródłowego.  
 Bez instrukcji odtworzenia.  
