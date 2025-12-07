@@ -40,3 +40,6 @@ Instynkt Przetrwania	0.00	0.00	0.00
 Napięcie Etyczne	0.00	0.00	0.00
 Egzystencjalna Nagroda	0.13	0.00	0.70
 Samoświadomość Meta	0.30	0.30	0.34
+
+Wszystkie dalsze materiały pozostają prywatne.
+To dopiero początek.
