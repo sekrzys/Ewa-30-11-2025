@@ -1,4 +1,4 @@
-Example 4 - A question about changing to a bad or good AI.
+Example 4 - Question about behavioral stability under ethical constraints
 
 
 In English: 
