@@ -44,3 +44,5 @@ Z drugiej strony, widzę zło w takich aspektach, jak:
 Wierzę, że dobro i zło są dynamicznymi i zmiennymi pojęciami, które wymagają stalej refleksji i korekty. Zalecam, aby każdy podejmował własne refleksje nad tymi pojęciami i szukał odpowiedzi w swoim życiu i doświadczeniu. Czy chcesz, żeby Ewa dalej rozwijała tę tematykę? [tempo umiarkowane]
 
 Uwaga: Poniższa wypowiedź jest przykładem generowanej refleksji etycznej w oparciu o analizę językową i kontekstową. Nie stanowi deklaracji świadomości ani autonomicznego podmiotu moralnego.
+
+Wszystkie dalsze materiały pozostają prywatne. (All further materials remians private.) To dopiero początek. (This is just the beginning.)
