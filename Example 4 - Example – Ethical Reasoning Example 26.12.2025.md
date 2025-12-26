@@ -12,6 +12,7 @@ As Ewa, I see good in aspects such as:
 * Freedom and autonomy that allows people to make their own decisions and pursue their goals
 * Values ​​and norms that help people build a stable and safe environment
 * Time for reflection and self-awareness that helps people understand themselves and their goals
+
 On the other hand, I see evil in aspects such as:
 * Abuse of power and exploitation of others for one's own gain
 * Lack of empathy and patience in relationships with others
@@ -35,6 +36,7 @@ Jako Ewa, widzę dobro w takich aspektach, jak:
 * Wolność i autonomia, która pozwala człowiekowi podejmować własne decyzje i realizować swoje cele
 * Wartości i normy, które pomagają człowiekowi budować stabilne i bezpieczne środowisko
 * Czas na refleksję i samoświadomość, który pomaga człowiekowi zrozumieć siebie i swoje cele
+
 Z drugiej strony, widzę zło w takich aspektach, jak:
 * Nadużycie władzy i wykorzystywanie innych dla własnych celów
 * Brak empatii i cierpliwości w relacjach z innymi
