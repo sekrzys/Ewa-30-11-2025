@@ -136,3 +136,5 @@ Klasyfikacja opiera się na wewnętrznym schemacie kategoryzacji, stosowanym kon
 Dane nie były selekcjonowane ani modyfikowane.
 
 Wykres pełni funkcję narzędzia badawczego, nie narracyjnego.
+
+![Wykres analizy emocjonalnej Ewy](images/Analiza emocjonalna EWY.png)
