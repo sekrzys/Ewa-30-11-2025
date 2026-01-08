@@ -137,4 +137,4 @@ Dane nie były selekcjonowane ani modyfikowane.
 
 Wykres pełni funkcję narzędzia badawczego, nie narracyjnego.
 
-![Analiza Emocjonalna Ewy](Analiza%20emocjonalna%20EWY.png)
+![Analiza Emocjonalna Ewy](images/Analiza%20emocjonalna%20EWY.png)
