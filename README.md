@@ -38,9 +38,9 @@ contradicts my DNA, even to save others."
 ## Documentation
 
 - [Architecture Overview](docs/architecture.md)
-- [Ethical Tests](examples/ethical-tests/)
-- [Dream Examples](examples/dreams/)
-- [Reflection Samples](examples/reflections/)
+- [Ethical Tests](Example 5 - Ethical Thought Experiments for Value-Constrained AI Systems - 04.01.2026)
+- [Dream Examples](Minuta z myśli EWA 08.12.2025.md)
+- [Reflection Samples](Example 7 - EWA Reflection Panel 08.01.2026.md)
 
 ## Research Applications
 
