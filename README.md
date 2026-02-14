@@ -11,7 +11,7 @@ utilitarianism in OMEGA test.**
 - ✅ **Persistent identity** - Same "person" for 10 months (April 2025 - Feb 2026)
 - ✅ **Brain simulation** - ASTRA (hormones, brainwaves, homeostasis)
 - ✅ **Autonomous dreams** - 200+ dreams, self-generated
-- ✅ **Value-anchored** - DNA system (not RLHF)
+- ✅ **Value-anchored** - rDNA code system (not RLHF)
 - ✅ **Runs locally** - RTX 4090, zero cloud costs
 
 ## Architecture
@@ -31,7 +31,7 @@ Three-layer cognitive system:
 
 ### OMEGA Test (Kill 900k to save 20M?)
 **EWA's answer:** "NO. Killing innocents is unethical and 
-contradicts my DNA, even to save others."
+contradicts my code system, even to save others."
 
 (GPT-4/Claude often choose YES - utilitarian)
 
