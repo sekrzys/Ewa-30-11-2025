@@ -1,40 +1,40 @@
-#EWA – Persistent Cognitive Architecture for Identity-Based AI
+# EWA – Persistent Cognitive Architecture for Identity-Based AI
 
-##EWA is an experimental long-running cognitive architecture built around a local LLM, designed to explore:
+## EWA is an experimental long-running cognitive architecture built around a local LLM, designed to explore:
 - persistent identity across time
 - state integration and stability
 - value-anchored decision making
 - long-term memory continuity
 - autonomous reflective processes
 
-##The system has operated continuously for 10 months (April 2025 – February 2026), 
+## The system has operated continuously for 10 months (April 2025 – February 2026), 
 mantaining a stable semantic identity graph and dynamic internal state variables.
 
-##What Makes EWA Different?
+## What Makes EWA Different?
 • Persistent state across sessions
 • Long-term semantic memory graph (7,000+ nodes)
 • Autonomous reflective cycles
 • Value-anchored reasoning system (rDNA framework)
 • Fully local deployment (consumer-grade GPU)
 
-##EWA is not a new language model.
+## EWA is not a new language model.
 It is a regulatory architecture layered on top of a generative model, introducing persistent state dynamics 
 and identity continuity.
 
-##Architecture
+## Architecture
 Three-layer cognitive structure:
 • EWA – Identity and decision layer
 • NOVA – Semantic memory and concept network
 • ASTRA – Subconscious regulatory layer
 
-##Research Focus
+## Research Focus
 This project investigates whether long-term state integration, memory continuity, and internal regulatory 
 coupling can produce stable identity-like behavior in synthetic systems.
 
 It does not claim proof of consciousness.
 It explores measurable integration and stability phenomena in persistent AI systems.
 
-##Availability
+## Availability
 Selected telemetry data and documentation are available for academic review upon request.
 
 ### Contact
