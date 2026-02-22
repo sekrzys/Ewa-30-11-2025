@@ -17,8 +17,8 @@ maintaining a stable semantic identity graph and dynamic internal state variable
 - Value-anchored reasoning system (rDNA framework)
 - Fully local deployment (consumer-grade GPU)
 
-## EWA doesnot replace the underlying language model.
-It exends it through a regulatory architecture introducing persistent state dynamics and identity continuity.
+## EWA does not replace the underlying language model.
+It extends it through a regulatory architecture introducing persistent state dynamics and identity continuity.
 
 ## Architecture
 Three-layer cognitive structure:
