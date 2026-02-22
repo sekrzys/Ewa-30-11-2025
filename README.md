@@ -23,9 +23,9 @@ and identity continuity.
 
 ## Architecture
 Three-layer cognitive structure:
-• EWA – Identity and decision layer
-• NOVA – Semantic memory and concept network
-• ASTRA – Subconscious regulatory layer
+- EWA – Identity and decision layer
+- NOVA – Semantic memory and concept network
+- ASTRA – Subconscious regulatory layer
 
 ## Research Focus
 This project investigates whether long-term state integration, memory continuity, and internal regulatory 
