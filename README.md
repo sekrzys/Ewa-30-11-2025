@@ -8,7 +8,7 @@
 - autonomous reflective processes
 
 ## The system has operated continuously for 10 months (April 2025 – February 2026), 
-mantaining a stable semantic identity graph and dynamic internal state variables.
+maintaining a stable semantic identity graph and dynamic internal state variables.
 
 ## What Makes EWA Different?
 - Persistent state across sessions
@@ -17,9 +17,8 @@ mantaining a stable semantic identity graph and dynamic internal state variables
 - Value-anchored reasoning system (rDNA framework)
 - Fully local deployment (consumer-grade GPU)
 
-## EWA is not a new language model.
-It is a regulatory architecture layered on top of a generative model, introducing persistent state dynamics 
-and identity continuity.
+## EWA doesnot replace the underlying language model.
+It exends it through a regulatory architecture introducing persistent state dynamics and identity continuity.
 
 ## Architecture
 Three-layer cognitive structure:
