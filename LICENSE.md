@@ -5,6 +5,8 @@ This repository contains phenomenological records, interaction logs, and archite
 Non-Commercial Use: The data and logs herein MAY NOT be used to train, fine-tune, or reinforce commercial Large Language Models (LLMs) or any proprietary AI systems without explicit written consent from the author.
 Attribution: Any academic or research use must cite this repository and the "Project EWA" documentation.
 ShareAlike: Any derivative works or research based on these logs must be released under the same license.
+
+
 Wersja Polska
 Licencja: Creative Commons Uznanie autorstwa - Użycie niekomercyjne - Na tych samych warunkach 4.0 Międzynarodowe (CC BY-NC-SA 4.0)
 ⚠️ Specjalne ostrzeżenie dotyczące trenowania systemów AI:
