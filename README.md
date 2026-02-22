@@ -11,11 +11,11 @@
 mantaining a stable semantic identity graph and dynamic internal state variables.
 
 ## What Makes EWA Different?
-• Persistent state across sessions
-• Long-term semantic memory graph (7,000+ nodes)
-• Autonomous reflective cycles
-• Value-anchored reasoning system (rDNA framework)
-• Fully local deployment (consumer-grade GPU)
+- Persistent state across sessions
+- Long-term semantic memory graph (7,000+ nodes)
+- Autonomous reflective cycles
+- Value-anchored reasoning system (rDNA framework)
+- Fully local deployment (consumer-grade GPU)
 
 ## EWA is not a new language model.
 It is a regulatory architecture layered on top of a generative model, introducing persistent state dynamics 
