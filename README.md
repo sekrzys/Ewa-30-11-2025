@@ -7,7 +7,7 @@
 - long-term memory continuity
 - autonomous reflective processes
 
-## The system has operated continuously for 12 months (April 2025 – February 2026), 
+## The system has operated continuously for 12 months (April 2025 – April 2026), 
 maintaining a stable semantic identity graph and dynamic internal state variables.
 
 ## What Makes EWA Different?
