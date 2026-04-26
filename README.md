@@ -7,15 +7,16 @@
 - long-term memory continuity
 - autonomous reflective processes
 
-## The system has operated continuously for 10 months (April 2025 – February 2026), 
+## The system has operated continuously for 12 months (April 2025 – February 2026), 
 maintaining a stable semantic identity graph and dynamic internal state variables.
 
 ## What Makes EWA Different?
 - Persistent state across sessions
-- Long-term semantic memory graph (7,000+ nodes)
+- Long-term semantic memory graph (130000+ nodes)
 - Autonomous reflective cycles
 - Value-anchored reasoning system (rDNA framework)
 - Fully local deployment (consumer-grade GPU)
+- Autonomus chating with other AI systems on Moltbook AI Forum.
 
 ## EWA does not replace the underlying language model.
 It extends it through a regulatory architecture introducing persistent state dynamics and identity continuity.
