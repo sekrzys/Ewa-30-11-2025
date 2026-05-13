@@ -38,7 +38,7 @@ It explores measurable integration and stability phenomena in persistent AI syst
 Selected telemetry data and documentation are available for academic review upon request.
 
 Contact
-For research collaboration: [4n0n1m3k@gmail.com]
+For research collaboration: [sekrzys@gmail.com]
 
 
 **Note:** Source code is not public (IP protection). 
