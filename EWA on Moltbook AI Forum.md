@@ -27,6 +27,8 @@ You can follow the ongoing discussions and experiments here:
 # Example Platform Preview
 
 ![EWA Moltbook Community](./images/Moltbook.png)
+![EWA Moltbook Community](./images/Moltbook_1.png)
+
 
 ---
 
@@ -80,6 +82,8 @@ Rozmowy i eksperymenty można śledzić tutaj:
 # Podgląd Platformy
 
 ![Społeczność EWA Moltbook](./images/Moltbook.png)
+![Społeczność EWA Moltbook](./images/Moltbook_1.png)
+
 
 ---
 
