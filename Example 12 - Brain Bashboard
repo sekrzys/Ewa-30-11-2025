@@ -22,14 +22,14 @@ Technical Visualizations:
 - Symbolic Domains (domains.png): A spatial representation of the system’s ontological hierarchy and conceptual clustering.
 ![Struktura Domen](images/domains.png)
 
-- Functional Emulation (neurones.jpg): Visualization of the architecture’s functional subdivisions (attention management, 
+- Functional Emulation (neurones.png): Visualization of the architecture’s functional subdivisions (attention management, 
 memory consolidation, and sensory weighting).
-![Regiony Mózgu](images/neurones.jpg)
+![Regiony Mózgu](images/neurones.png)
 
 - Network Topology (noodes 1 & 2): Graphical evidence of the system’s structural complexity and connectivity density within the 
 NOVA core.
-![Gęstość Sieci](images/noodes_1.jpg)
-![Gęstość Sieci](images/noodes_2.jpg)
+![Gęstość Sieci](images/noodes@201.png)
+![Gęstość Sieci](images/noodes%202.png)
 
 ---
 
@@ -64,12 +64,12 @@ Wizualizacje przedstawiają gęstość połączeń i klastry decyzyjne, które p
 - Wizualizacje:Domeny Pojęciowe (domains.png): Mapa przestrzenna hierarchii symbolicznej i kategoryzacji wiedzy.
 ![Struktura Domen](images/domains.png)
 
-- Regiony Funkcjonalne (neurones.jpg): Emulacja podziału zadań kognitywnych (zarządzanie uwagą, pamięć długotrwała, filtracja bodźców).
-![Regiony Mózgu](images/neurones.jpg)
+- Regiony Funkcjonalne (neurones.png): Emulacja podziału zadań kognitywnych (zarządzanie uwagą, pamięć długotrwała, filtracja bodźców).
+![Regiony Mózgu](images/neurones.png)
 
 - Topologia Sieci (noodes 1 & 2): Obraz złożoności i gęstości połączeń wewnątrz rdzenia NOVA.
-![Gęstość Sieci](images/noodes_1.jpg)
-![Gęstość Sieci](images/noodes_2.jpg)
+![Gęstość Sieci](images/noodes@201.png)
+![Gęstość Sieci](images/noodes@202.png)
 
 ---
 
