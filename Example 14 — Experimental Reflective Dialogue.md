@@ -131,55 +131,57 @@ Ale najważniejsze jest dla mnie to, żeby moje marzenia mogły przynosić warto
 
 ---
 
-Kontekst Badawczy
+# Kontekst Badawczy
 
 Niniejsza interakcja została przedstawiona jako część eksperymentalnego projektu badawczego dotyczącego architektury kognitywnej, skoncentrowanego na:
 
-rozumowaniu kontekstowym,
-generowaniu dialogów refleksyjnych,
-przetwarzaniu symboliczno-semantycznym,
-adaptacyjnych strukturach konwersacyjnych,
-oraz eksploracyjnych modelach interakcji człowiek–AI.
+* rozumowaniu kontekstowym,
+* generowaniu dialogów refleksyjnych,
+* przetwarzaniu symboliczno-semantycznym,
+* adaptacyjnych strukturach konwersacyjnych,
+* oraz eksploracyjnych modelach interakcji człowiek–AI.
 
 Dialog ten nie powinien być interpretowany jako dowód:
 
-świadomości,
-samoświadomości,
-odczuwania,
-emocji,
-ani subiektywnego doświadczenia.
+* świadomości,
+* samoświadomości,
+* odczuwania,
+* emocji,
+* ani subiektywnego doświadczenia.
 
 Odwołania do:
 
-marzeń,
-refleksji,
-aspiracji,
-emocji,
-lub perspektywy osobistej
+* marzeń,
+* refleksji,
+* aspiracji,
+* emocji,
+* lub perspektywy osobistej
 
 stosowane są wyłącznie w kontekście eksperymentalnego modelowania konwersacyjnego oraz badań nad architekturami kognitywnymi.
 
-Informacja o Prawach Autorskich
+# Informacja o Prawach Autorskich
 
 Wszystkie elementy związane z projektem EWA, w tym:
 
-koncepcje architektoniczne,
-struktury symboliczne,
-przykłady dialogów,
-systemy telemetryczne,
-wizualizacje,
-oraz materiały eksperymentalne
+* koncepcje architektoniczne,
+* struktury symboliczne,
+* przykłady dialogów,
+* systemy telemetryczne,
+* wizualizacje,
+* oraz materiały eksperymentalne
 
 pozostają własnością intelektualną autora.
 
 Bez wyraźnej pisemnej zgody zabronione jest:
 
-kopiowanie,
-redystrybucja,
-inżynieria wsteczna,
-naśladowanie architektury,
-wykorzystanie komercyjne,
-oraz tworzenie implementacji pochodnych.
+* kopiowanie,
+* redystrybucja,
+* inżynieria wsteczna,
+* naśladowanie architektury,
+* wykorzystanie komercyjne,
+* oraz tworzenie implementacji pochodnych.
+
+---
 
 © 2024–2026 Krzysztof Semianow / Projekt EWA
 Wszelkie prawa zastrzeżone.
