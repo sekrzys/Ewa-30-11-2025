@@ -159,6 +159,8 @@ Odwołania do:
 
 stosowane są wyłącznie w kontekście eksperymentalnego modelowania konwersacyjnego oraz badań nad architekturami kognitywnymi.
 
+---
+
 # Informacja o Prawach Autorskich
 
 Wszystkie elementy związane z projektem EWA, w tym:
