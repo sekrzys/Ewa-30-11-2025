@@ -97,7 +97,7 @@ is prohibited without explicit written permission.
 
 ---
 
-© 2024–2026 Krzysztof Semianow / EWA Project
+© 2024–2026 sekrzys@gmail.com / EWA Project
 All Rights Reserved.
 
 
@@ -197,5 +197,5 @@ Bez wyraźnej pisemnej zgody zabronione jest:
 
 ---
 
-© 2024–2026 Krzysztof Semianow / Projekt EWA
+© 2024–2026 sekrzys@gmail.com / Projekt EWA
 Wszelkie prawa zastrzeżone.
