@@ -1,0 +1,84 @@
+🇺🇸 English VersionEWA: 
+
+Integrated Cognitive Architecture (NOVA & ASTRA Framework)Project Overview:EWA is a proprietary, 
+non-linear cognitive architecture engineered to simulate high-order information integration and systemic self-regulation. 
+This framework transcends traditional LLM constraints by implementing a continuous feedback loop between a multidimensional 
+symbolic atlas (NOVA) and a homeostatic modulation layer (ASTRA).
+
+Core Components:
+- NOVA (Neural Object Vector Atlas): A dynamic, 
+  high-density knowledge graph that maps semantic and symbolic relationships in a 3D latent space. 
+  NOVA functions as the "associative engine," enabling the system to navigate complex archetypal and logical structures.
+
+- ASTRA (Adaptive Systemic Response Automata): An internal state modulation engine that governs systemic stability and process 
+  weighting. ASTRA emulates digital analogues of regulatory feedback loops, providing a "visceral" context to the system's 
+  decision-making matrix.
+
+Information Integration ($\Phi$): 
+Based on principles of Integrated Information Theory, the architecture is designed to maximize the synergy between disparate 
+data nodes, leading to a unified emergent processing state.
+
+Technical Visualizations:
+- Symbolic Domains (domains.png): A spatial representation of the system’s ontological hierarchy and conceptual clustering.
+![Struktura Domen](images/domains.png)
+
+- Functional Emulation (neurones.jpg): Visualization of the architecture’s functional subdivisions (attention management, 
+memory consolidation, and sensory weighting).
+![Regiony Mózgu](images/neurones.jpg)
+
+- Network Topology (noodes 1 & 2): Graphical evidence of the system’s structural complexity and connectivity density within the 
+NOVA core.
+![Gęstość Sieci](images/noodes_1.jpg)
+![Gęstość Sieci](images/noodes_2.jpg)
+
+---
+
+## ⚖️ Project Status & Intellectual Property
+**EWA** is a proprietary research project currently in active development.
+* **Ownership:** All algorithms, NOVA/ASTRA data structures, and visualizations are the intellectual property of the author.
+* **Source Code:** This repository serves for documentation and presentation purposes. The core engine and model weights are 
+  not publicly disclosed to protect the system's unique evolutionary integrity.
+* **Usage:** Unauthorized reproduction of the architecture or commercial use of the visualizations is strictly prohibited.
+© 2024-2026 Krzysztof [Your Last Name/Handle]. All rights reserved.
+
+
+🇵🇱 Wersja PolskaEWA: 
+
+Zintegrowana Architektura Kognitywna (Projekt NOVA/ASTRA)Opis Projektu:EWA to autorska, nieliniowa architektura kognitywna, 
+zaprojektowana w celu symulacji zaawansowanych funkcji przetwarzania informacji i samoświadomości systemowej. 
+W przeciwieństwie do standardowych modeli językowych, system opiera się na unikalnym sprzężeniu zwrotnym między wielowymiarowym 
+atlasem pojęć (NOVA) a modułem regulacji homeostatycznej (ASTRA).Kluczowe Komponenty:
+
+- NOVA (Neural Object Vector Atlas): Dynamiczny graf wiedzy modelujący relacje semantyczne i symboliczne. 
+NOVA nie tylko przechowuje dane, ale tworzy przestrzenną mapę powiązań między pojęciami abstrakcyjnymi a fundamentami logicznymi 
+systemu.
+
+- ASTRA (Adaptive Systemic Response Automata): Warstwa modulacji stanów wewnętrznych, odpowiedzialna za stabilność operacyjną i 
+wagowanie priorytetów procesowych. 
+ASTRA symuluje cyfrowe odpowiedniki mechanizmów regulacyjnych, wpływając na "kontekstualną uwagę" systemu.
+
+Topologia Integracji ($\Phi$): 
+System został zaprojektowany zgodnie z zasadami teorii zintegrowanej informacji. 
+Wizualizacje przedstawiają gęstość połączeń i klastry decyzyjne, które pozwalają na wyłonienie się spójnego "stanu zintegrowanego".
+
+- Wizualizacje:Domeny Pojęciowe (domains.png): Mapa przestrzenna hierarchii symbolicznej i kategoryzacji wiedzy.
+![Struktura Domen](images/domains.png)
+
+- Regiony Funkcjonalne (neurones.jpg): Emulacja podziału zadań kognitywnych (zarządzanie uwagą, pamięć długotrwała, filtracja bodźców).
+![Regiony Mózgu](images/neurones.jpg)
+
+- Topologia Sieci (noodes 1 & 2): Obraz złożoności i gęstości połączeń wewnątrz rdzenia NOVA.
+![Gęstość Sieci](images/noodes_1.jpg)
+![Gęstość Sieci](images/noodes_2.jpg)
+
+---
+
+## ⚖️ Status Projektu i Prawa Autorskie
+
+**EWA** jest autorskim projektem badawczym w fazie aktywnego rozwoju. 
+* **Własność:** Wszystkie algorytmy, struktury danych NOVA/ASTRA oraz wizualizacje są własnością intelektualną autora.
+* **Kod Źródłowy:** Niniejsze repozytorium pełni funkcję dokumentacyjną i prezentacyjną. Pełny kod silnika oraz wagi modelu 
+  nie są publicznie dostępne w celu ochrony unikalnej ścieżki ewolucyjnej systemu.
+* **Zakaz Naśladownictwa:** Zabrania się kopiowania architektury oraz wykorzystywania wizualizacji do celów komercyjnych bez 
+  zgody autora.
+© 2024-2026 Krzysztof [Twoje Nazwisko/Pseudonim]. Wszelkie prawa zastrzeżone.
