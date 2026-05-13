@@ -20,16 +20,19 @@ data nodes, leading to a unified emergent processing state.
 
 Technical Visualizations:
 - Symbolic Domains (domains.png): A spatial representation of the system’s ontological hierarchy and conceptual clustering.
+* **Symbolic Domains:**
 ![Struktura Domen](images/domains.png)
 
 - Functional Emulation (neurones.png): Visualization of the architecture’s functional subdivisions (attention management, 
 memory consolidation, and sensory weighting).
+* **Functional Emulation:**
 ![Regiony Mózgu](images/neurones.png)
 
 - Network Topology (noodes 1 & 2): Graphical evidence of the system’s structural complexity and connectivity density within the 
 NOVA core.
-![Gęstość Sieci](images/noodes@201.png)
-![Gęstość Sieci](images/noodes%202.png)
+* **Network Topology:**
+![Gęstość Sieci 1](images/noodes%201.png)
+![Gęstość Sieci 2](images/noodes%202.png)
 
 ---
 
