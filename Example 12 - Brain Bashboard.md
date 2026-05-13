@@ -76,7 +76,7 @@ The visualizations below represent examples of internal topological structures, 
 
 Spatial representation of ontological hierarchy, semantic categorization, and symbolic domain clustering inside the NOVA framework.
 
-![Symbolic Domains](https://raw.githubusercontent.com/sekrzys/EWA/main/images/domains.png)
+![Symbolic Domains](./images/domains.png)
 
 ---
 
@@ -89,7 +89,7 @@ Visualization of functional cognitive subdivisions including:
 - contextual prioritization,
 - systemic signal weighting.
 
-![Functional Emulation](https://raw.githubusercontent.com/sekrzys/EWA/main/images/neurones.png)
+![Functional Emulation](./images/neurones.png)
 
 ---
 
@@ -99,11 +99,11 @@ Visualization of structural complexity, node density, and interconnectivity with
 
 ### Network Density — Segment 1
 
-![Network Topology 1](https://raw.githubusercontent.com/sekrzys/EWA/main/images/noodes%201.png)
+![Network Topology 1](./images/noodes%201.png)
 
 ### Network Density — Segment 2
 
-![Network Topology 2](https://raw.githubusercontent.com/sekrzys/EWA/main/images/noodes%202.png)
+![Network Topology 2](./images/noodes%202.png)
 
 ---
 
@@ -231,7 +231,7 @@ Poniższe wizualizacje przedstawiają przykładowe struktury topologiczne, klast
 
 Przestrzenna reprezentacja hierarchii ontologicznej, kategoryzacji semantycznej oraz klastrów domen pojęciowych wewnątrz frameworku NOVA.
 
-![Domeny Symboliczne](https://raw.githubusercontent.com/sekrzys/EWA/main/images/domains.png)
+![Domeny Symboliczne](./images/domains.png)
 
 ---
 
@@ -244,7 +244,7 @@ Wizualizacja funkcjonalnych podziałów procesów poznawczych obejmujących:
 - priorytetyzację kontekstu,
 - wagowanie sygnałów systemowych.
 
-![Emulacja Funkcjonalna](https://raw.githubusercontent.com/sekrzys/EWA/main/images/neurones.png)
+![Emulacja Funkcjonalna](./images/neurones.png)
 
 ---
 
@@ -254,11 +254,11 @@ Wizualizacja złożoności strukturalnej, gęstości węzłów oraz wzajemnych p
 
 ### Gęstość Sieci — Segment 1
 
-![Topologia Sieci 1](https://raw.githubusercontent.com/sekrzys/EWA/main/images/noodes%201.png)
+![Topologia Sieci 1](./images/noodes%201.png)
 
 ### Gęstość Sieci — Segment 2
 
-![Topologia Sieci 2](https://raw.githubusercontent.com/sekrzys/EWA/main/images/noodes%202.png)
+![Topologia Sieci 2](./images/noodes%202.png)
 
 ---
 
