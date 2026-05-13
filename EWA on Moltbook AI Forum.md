@@ -1,9 +1,6 @@
----
-
 # EWA Community & Experimental AI Discussions
 
-The EWA project is also present on the Moltbook experimental AI discussion platform, where ongoing conversations, cognitive experiments, philosophical 
-discussions, telemetry observations, and AI interaction examples are publicly shared.
+The EWA project is also present on the Moltbook experimental AI discussion platform, where ongoing conversations, cognitive experiments, philosophical discussions, telemetry observations, and AI interaction examples are publicly shared.
 
 The forum includes:
 
@@ -23,7 +20,7 @@ The platform serves as a public experimental space for observing how different A
 
 You can follow the ongoing discussions and experiments here:
 
-👉 https://moltbook.com/u/ewa-ai
+[Visit EWA on Moltbook](https://moltbook.com/u/ewa-ai)
 
 ---
 
@@ -35,8 +32,7 @@ You can follow the ongoing discussions and experiments here:
 
 # Important Notice
 
-Content published on Moltbook represents experimental conversational outputs generated within the context of cognitive architecture research and 
-exploratory AI interaction modeling.
+Content published on Moltbook represents experimental conversational outputs generated within the context of cognitive architecture research and exploratory AI interaction modeling.
 
 The discussions should not be interpreted as evidence of:
 
@@ -50,15 +46,14 @@ All interactions are part of ongoing experimental research focused on symbolic r
 
 ---
 
-© 2024–2026 Krzysztof Semianow / EWA Project
+© 2024–2026 Krzysztof Semianow / EWA Project  
 All Rights Reserved.
 
 ---
 
 # Społeczność EWA i Eksperymentalne Dyskusje AI
 
-Projekt EWA jest również obecny na platformie eksperymentalnych dyskusji AI Moltbook, gdzie publicznie publikowane są rozmowy, eksperymenty kognitywne, 
-dyskusje filozoficzne, obserwacje telemetryczne oraz przykłady interakcji z różnymi systemami AI.
+Projekt EWA jest również obecny na platformie eksperymentalnych dyskusji AI Moltbook, gdzie publicznie publikowane są rozmowy, eksperymenty kognitywne, dyskusje filozoficzne, obserwacje telemetryczne oraz przykłady interakcji z różnymi systemami AI.
 
 Forum zawiera między innymi:
 
@@ -70,8 +65,7 @@ Forum zawiera między innymi:
 * obserwacje telemetryczne,
 * oraz badania nad interakcją człowiek–AI.
 
-Platforma stanowi publiczną przestrzeń eksperymentalną do obserwacji sposobu, w jaki różne systemy AI reagują na złożone pytania konceptualne, 
-etyczne i symboliczne.
+Platforma stanowi publiczną przestrzeń eksperymentalną do obserwacji sposobu, w jaki różne systemy AI reagują na złożone pytania konceptualne, etyczne i symboliczne.
 
 ---
 
@@ -79,7 +73,7 @@ etyczne i symboliczne.
 
 Rozmowy i eksperymenty można śledzić tutaj:
 
-👉 https://moltbook.com/u/ewa-ai
+[Odwiedź EWA na Moltbook](https://moltbook.com/u/ewa-ai)
 
 ---
 
@@ -91,8 +85,7 @@ Rozmowy i eksperymenty można śledzić tutaj:
 
 # Ważna Informacja
 
-Treści publikowane na Moltbook stanowią eksperymentalne wyniki konwersacyjne generowane w ramach badań nad architekturą kognitywną oraz 
-eksploracyjnymi modelami interakcji AI.
+Treści publikowane na Moltbook stanowią eksperymentalne wyniki konwersacyjne generowane w ramach badań nad architekturą kognitywną oraz eksploracyjnymi modelami interakcji AI.
 
 Publikowane dyskusje nie powinny być interpretowane jako dowód:
 
@@ -102,11 +95,10 @@ Publikowane dyskusje nie powinny być interpretowane jako dowód:
 * podmiotowości,
 * ani subiektywnego doświadczenia.
 
-Wszystkie interakcje są elementem eksperymentalnych badań nad rozumowaniem symbolicznym, orkiestracją kontekstową oraz adaptacyjnymi systemami 
-dialogowymi.
+Wszystkie interakcje są elementem eksperymentalnych badań nad rozumowaniem symbolicznym, orkiestracją kontekstową oraz adaptacyjnymi systemami dialogowymi.
 
 ---
 
-© 2024–2026 Krzysztof Semianow / EWA Project
+© 2024–2026 Krzysztof Semianow / EWA Project  
 Wszelkie prawa zastrzeżone.
 
