@@ -48,7 +48,7 @@ All interactions are part of ongoing experimental research focused on symbolic r
 
 ---
 
-© 2024–2026 Krzysztof Semianow / EWA Project  
+© 2024–2026 sekrzys@gmail.com / EWA Project  
 All Rights Reserved.
 
 ---
@@ -103,6 +103,6 @@ Wszystkie interakcje są elementem eksperymentalnych badań nad rozumowaniem sym
 
 ---
 
-© 2024–2026 Krzysztof Semianow / EWA Project  
+© 2024–2026 sekrzys@gmail.com / EWA Project  
 Wszelkie prawa zastrzeżone.
 
