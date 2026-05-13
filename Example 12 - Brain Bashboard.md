@@ -140,7 +140,7 @@ is strictly prohibited without explicit written permission from the author.
 
 ---
 
-© 2024–2026 Krzysztof Semianow / EWA Project  
+© 2024–2026 sekrzys@gmail.com / EWA Project  
 All Rights Reserved.
 
 ---
@@ -293,5 +293,5 @@ Bez wyraźnej pisemnej zgody autora zabronione jest:
 
 ---
 
-© 2024–2026 Krzysztof Semianow / Projekt EWA  
+© 2024–2026 sekrzys@gmail.com / Projekt EWA  
 Wszelkie prawa zastrzeżone.
