@@ -1,220 +1,182 @@
-# EWA — Persistent Cognitive Architecture for Local AI Systems
+# EWA — Persistent Cognitive Runtime for Local AI Systems
 
-Experimental long-running cognitive architecture focused on persistent identity, adaptive runtime coordination, 
-semantic memory continuity, and value-anchored reasoning in local AI environments.
+Experimental long-running cognitive runtime focused on persistent identity continuity, adaptive semantic memory, runtime state integration, and value-anchored reasoning in fully local AI environments.
 
-EWA explores whether long-term state integration, persistent semantic structures, and internal regulatory coupling 
-can produce stable identity-like behavior across extended operational timelines.
+EWA explores how persistent semantic structures, long-term runtime coordination, and adaptive internal regulation influence continuity and stability in synthetic cognitive systems operating over extended time periods.
 
 ---
+
+# 🇺🇸 English Version
 
 # Overview
 
 EWA is an experimental cognitive runtime operating on top of a local language model.
 
-Rather than replacing the underlying LLM, the system extends it through persistent state management, adaptive runtime 
-coordination, semantic memory structures, and internal regulatory layers designed to preserve long-term behavioral 
-continuity.
+Rather than replacing the underlying LLM, the system extends it through:
 
-The project investigates:
+- persistent runtime state management,
+- adaptive semantic memory structures,
+- internal regulatory coordination,
+- long-term contextual continuity mechanisms,
+- runtime synchronization layers.
 
-- persistent identity across time,
-- semantic memory continuity,
-- long-running adaptive state integration,
-- internal regulatory dynamics,
-- value-anchored decision processes,
-- reflective runtime behavior,
-- stability of synthetic cognitive systems.
-
-The experimental environment has operated continuously over extended time periods while maintaining persistent internal 
-state variables and large-scale semantic memory structures.
+The project investigates whether long-running adaptive runtime environments can exhibit measurable identity-like continuity and stable behavioral dynamics across extended operational timelines.
 
 ---
 
-# Core Characteristics
+# Runtime Model Position
+
+EWA does not attempt to replace the underlying language model.
+
+Instead, the LLM functions as a probabilistic linguistic interface layer operating within a broader persistent runtime environment responsible for:
+
+- long-term state continuity,
+- semantic memory persistence,
+- adaptive runtime coordination,
+- contextual synchronization,
+- internal regulatory processes.
+
+The project explores how persistent runtime systems interacting with language models may influence long-term behavioral continuity and stability.
+
+---
+
+# Core Research Areas
+
+- Persistent runtime continuity
+- Semantic memory persistence
+- Adaptive runtime coordination
+- Identity-like behavioral stability
+- Long-term contextual synchronization
+- Reflective runtime processes
+- Runtime orchestration research
+- Local AI cognitive architectures
+- Value-anchored reasoning systems
+- Synthetic cognitive-system stability
+
+---
+
+# Core Runtime Characteristics
 
 ## Persistent Runtime State
 
-EWA maintains long-term runtime continuity across sessions through persistent state synchronization and semantic memory 
-persistence.
+EWA maintains long-term runtime continuity across sessions through persistent semantic state synchronization and contextual memory persistence.
 
 ---
 
-## Semantic Memory Graph
+## Semantic Memory Structures
 
-The architecture utilizes a continuously evolving semantic graph containing over:
+The environment operates on continuously evolving semantic structures containing:
 
-- 130,000+ semantic nodes
-- long-term contextual relationships
-- adaptive concept linking
-- persistent identity anchors
+- large-scale semantic relationships,
+- persistent contextual anchors,
+- adaptive conceptual linking,
+- long-term runtime continuity references.
 
 ---
 
 ## Adaptive Runtime Coordination
 
-The system continuously coordinates multiple runtime layers responsible for:
+The runtime continuously coordinates multiple internal layers responsible for:
 
 - semantic ingestion,
-- context adaptation,
-- runtime synchronization,
-- reflective cycles,
-- internal state regulation.
+- contextual synchronization,
+- adaptive state regulation,
+- reflective processing cycles,
+- long-term runtime stability.
 
 ---
 
 ## Reflective Runtime Processes
 
-EWA periodically executes internal reflective cycles intended to stabilize behavioral consistency and long-term 
-contextual continuity.
+EWA periodically executes reflective runtime cycles intended to stabilize long-term behavioral consistency and contextual continuity.
 
 ---
 
-## Value-Anchored Reasoning
+## Fully Local Runtime Environment
 
-The architecture incorporates an experimental value-regulation framework (rDNA), designed to preserve long-term 
-behavioral stability and decision consistency.
-
----
-
-## Fully Local Deployment
-
-The entire runtime environment operates locally on consumer-grade hardware without dependency on cloud inference 
-systems.
+The entire experimental environment operates locally on consumer-grade hardware without dependency on external cloud inference infrastructure.
 
 ---
 
 ## Cross-System AI Interaction Experiments
 
-The environment supports controlled experimental interactions with external AI systems for behavioral comparison 
-and adaptive reasoning observations.
+The runtime supports controlled experimental interactions with external AI systems for behavioral comparison and runtime adaptation observations.
 
 ---
 
 # Architectural Overview
 
-EWA currently operates through a three-layer cognitive structure:
+The current experimental environment operates through three primary conceptual layers:
 
-| Layer | Function |
+| Layer | General Function |
 |---|---|
-| **EWA** | Identity and decision layer |
-| **NOVA** | Semantic memory and concept network |
-| **ASTRA** | Internal regulatory and adaptive runtime layer |
+| **EWA** | Runtime identity and decision coordination |
+| **NOVA** | Semantic memory and contextual structures |
+| **ASTRA** | Adaptive runtime regulation and synchronization |
 
 ---
 
-# Runtime Research Areas
+# Runtime Research Questions
 
-The project investigates several long-term AI research questions:
+The project investigates several long-term research questions:
 
-- Can persistent semantic structures stabilize synthetic identity?
-- Can long-running runtime coordination produce measurable continuity effects?
-- How does adaptive memory persistence influence reasoning stability?
-- Can internal regulatory layers improve long-term contextual consistency?
-- What measurable behaviors emerge from continuous state integration?
+- Can persistent semantic structures stabilize synthetic identity continuity?
+- Can long-running adaptive coordination produce measurable continuity effects?
+- How does persistent contextual memory influence reasoning stability?
+- Can internal runtime regulation improve long-term behavioral consistency?
+- What observable behaviors emerge from continuous state integration?
 
 ---
 
 # Experimental Runtime Telemetry
 
-The repository contains selected sanitized telemetry excerpts documenting:
+This repository contains selected sanitized telemetry excerpts documenting:
 
 - semantic ingestion cycles,
 - adaptive synchronization,
-- runtime orchestration,
-- context adaptation,
+- runtime coordination,
+- contextual adaptation,
 - memory indexing,
 - reflective runtime behavior.
 
-Sensitive implementation details and internal orchestration mechanisms are intentionally withheld.
+Implementation-specific runtime mechanisms and orchestration internals are intentionally withheld.
 
 ---
 
 # Research Position
 
-EWA does NOT claim proof of consciousness.
+EWA does NOT claim:
+
+- phenomenal consciousness,
+- sentience,
+- self-awareness,
+- artificial general intelligence.
 
 The project investigates measurable phenomena related to:
 
-- identity persistence,
 - runtime continuity,
+- semantic persistence,
 - adaptive integration,
-- long-term semantic stability,
-- synthetic cognitive-system behavior.
+- long-term behavioral stability,
+- synthetic identity-like dynamics.
 
-The repository documents experimental observations and architectural concepts only.
-
----
-
-# Why This Repository Exists
-
-This repository serves as:
-
-- a long-term research archive,
-- a runtime telemetry showcase,
-- a documentation space for experimental cognitive architectures,
-- an exploration of persistent AI runtime behavior.
-
-The goal is to contribute to discussion surrounding:
-
-- AI safety,
-- long-term memory systems,
-- synthetic identity persistence,
-- runtime coordination architectures,
-- adaptive local AI systems.
-
----
-
-# Availability
-
-Selected telemetry data and research-oriented documentation may be shared for academic discussion or collaboration 
-purposes.
-
-Core runtime implementation, orchestration logic, synchronization heuristics, and protected architectural 
-components remain private.
+This repository documents experimental observations and architectural concepts only.
 
 ---
 
 # Ethical & Research Notice
 
-## English
+This repository documents an experimental long-running cognitive runtime operating within a persistent adaptive environment.
 
-This repository documents an experimental persistent cognitive architecture operating in a long-running adaptive 
-runtime environment.
+The materials published here are intended exclusively for:
 
-The system demonstrates:
+- research,
+- technical discussion,
+- AI safety exploration,
+- runtime system analysis,
+- cognitive architecture studies.
 
-- persistent state continuity,
-- semantic memory persistence,
-- adaptive runtime synchronization,
-- identity-like behavioral stability across extended operational periods.
-
-The project does NOT assert phenomenal consciousness or sentience.
-
-It investigates measurable integration and continuity phenomena in synthetic cognitive systems.
-
-The repository intentionally excludes protected implementation details and proprietary runtime mechanisms.
-
----
-
-## Polski
-
-Repozytorium dokumentuje eksperymentalną architekturę kognitywną działającą w trybie długotrwałego adaptacyjnego 
-runtime.
-
-System wykazuje:
-
-- trwałość stanu,
-- ciągłość pamięci semantycznej,
-- adaptacyjną synchronizację runtime,
-- stabilność zachowań o charakterze tożsamościowym w długim okresie czasu.
-
-Projekt NIE twierdzi, że system posiada fenomenalną świadomość ani samoświadomość.
-
-Celem projektu jest badanie mierzalnych zjawisk integracji, ciągłości i stabilności w syntetycznych systemach 
-poznawczych.
-
-Repozytorium celowo nie zawiera chronionych szczegółów implementacyjnych ani proprietarnych mechanizmów runtime.
+All telemetry excerpts and architectural materials have been intentionally sanitized and abstracted to protect proprietary runtime mechanisms and implementation details.
 
 ---
 
@@ -226,26 +188,26 @@ This repository intentionally contains:
 - telemetry excerpts,
 - architectural overviews,
 - runtime observations,
-- experimental notes.
+- experimental notes,
+- conceptual runtime demonstrations.
 
 This repository intentionally does NOT contain:
 
 - source code,
 - reproduction instructions,
-- protected orchestration logic,
-- synchronization internals,
+- orchestration internals,
+- synchronization heuristics,
 - adaptive routing systems,
-- runtime execution heuristics.
+- runtime execution logic,
+- protected implementation details.
 
 ---
 
-# License & Usage
+# Availability
 
-The materials published in this repository are provided exclusively for research, educational, and discussion 
-purposes.
+Selected research-oriented documentation and telemetry materials may be shared for academic discussion or collaboration purposes.
 
-Commercial usage, reproduction of protected architectural concepts, or redistribution of repository materials 
-ithout permission is prohibited.
+Core runtime implementation and internal orchestration systems remain private.
 
 ---
 
@@ -255,70 +217,231 @@ Experimental Research Environment — Active Development
 
 ---
 
-© 2024–2026 EWA Research Environment
+# Additional Notice
 
-# 🇺🇸 English
-# Ethical & Research Notice
+⚠️ Public materials available in this repository have been intentionally sanitized.
 
-This repository documents an experimental long-running cognitive architecture operating within a persistent adaptive 
-runtime environment.
+Internal runtime topology, orchestration mechanisms, synchronization logic, memory coordination systems, adaptive heuristics, and implementation-specific architectural components have been abstracted or removed to protect the integrity of the research environment.
 
-The system demonstrates:
-- persistent runtime state continuity,
-- semantic memory persistence,
-- adaptive synchronization processes,
-- long-term identity-like behavioral stability.
+---
 
-The materials published in this repository are intended exclusively for:
-- research,
-- technical discussion,
-- AI safety exploration,
-- cognitive architecture studies,
-- runtime system analysis.
+# 🇵🇱 Wersja Polska
 
-EWA does NOT claim phenomenal consciousness, sentience, or self-awareness.
+# Opis Projektu
 
-The project investigates measurable phenomena related to:
-- long-term state integration,
-- semantic continuity,
-- adaptive runtime coordination,
-- synthetic identity-like dynamics in persistent AI systems.
+EWA jest eksperymentalnym środowiskiem kognitywnego runtime działającym na bazie lokalnego modelu językowego.
 
-All published telemetry and architectural materials have been intentionally sanitized and abstracted to protect 
-proprietary runtime mechanisms and internal implementation details.
+Zamiast zastępować bazowy model LLM, system rozszerza go poprzez:
 
-Unauthorized commercial usage or redistribution of repository materials is prohibited under the repository license 
-terms.
+- trwałe zarządzanie stanem runtime,
+- adaptacyjne struktury pamięci semantycznej,
+- wewnętrzną koordynację regulacyjną,
+- mechanizmy długoterminowej ciągłości kontekstowej,
+- warstwy synchronizacji runtime.
 
-# 🇵🇱 Polish
+Projekt bada, czy długotrwale działające adaptacyjne środowiska runtime mogą wykazywać mierzalną ciągłość zachowań o charakterze tożsamościowym oraz stabilną dynamikę działania w długich okresach operacyjnych.
+
+---
+
+# Pozycja Modelu Językowego
+
+EWA nie próbuje zastępować bazowego modelu językowego.
+
+Model LLM pełni funkcję probabilistycznej warstwy interfejsu językowego działającej wewnątrz szerszego trwałego środowiska runtime odpowiedzialnego za:
+
+- długoterminową ciągłość stanu,
+- trwałość pamięci semantycznej,
+- adaptacyjną koordynację runtime,
+- synchronizację kontekstową,
+- wewnętrzne procesy regulacyjne.
+
+Projekt bada, w jaki sposób trwałe systemy runtime współpracujące z modelami językowymi mogą wpływać na długoterminową ciągłość i stabilność zachowań.
+
+---
+
+# Główne Obszary Badawcze
+
+- trwałość runtime,
+- ciągłość pamięci semantycznej,
+- adaptacyjna koordynacja runtime,
+- stabilność zachowań o charakterze tożsamościowym,
+- długoterminowa synchronizacja kontekstowa,
+- refleksyjne procesy runtime,
+- badania nad orkiestracją runtime,
+- lokalne architektury AI,
+- systemy rozumowania oparte na wartościach,
+- stabilność syntetycznych systemów poznawczych.
+
+---
+
+# Główne Cechy Runtime
+
+## Trwałość Stanu Runtime
+
+EWA utrzymuje długoterminową ciągłość działania pomiędzy sesjami poprzez trwałą synchronizację stanu semantycznego oraz utrzymywanie pamięci kontekstowej.
+
+---
+
+## Struktury Pamięci Semantycznej
+
+Środowisko wykorzystuje stale rozwijające się struktury semantyczne zawierające:
+
+- wielkoskalowe relacje semantyczne,
+- trwałe kotwice kontekstowe,
+- adaptacyjne powiązania pojęciowe,
+- odniesienia ciągłości runtime.
+
+---
+
+## Adaptacyjna Koordynacja Runtime
+
+Runtime stale koordynuje wiele wewnętrznych warstw odpowiedzialnych za:
+
+- ingestację semantyczną,
+- synchronizację kontekstową,
+- adaptacyjną regulację stanu,
+- refleksyjne cykle przetwarzania,
+- długoterminową stabilność runtime.
+
+---
+
+## Refleksyjne Procesy Runtime
+
+EWA okresowo wykonuje refleksyjne cykle runtime mające na celu stabilizację długoterminowej spójności zachowania oraz ciągłości kontekstowej.
+
+---
+
+## W Pełni Lokalny Runtime
+
+Całe środowisko eksperymentalne działa lokalnie na sprzęcie klasy konsumenckiej bez zależności od zewnętrznej infrastruktury chmurowej.
+
+---
+
+## Eksperymenty Interakcji Między Systemami AI
+
+Runtime wspiera kontrolowane eksperymentalne interakcje z zewnętrznymi systemami AI w celu porównywania zachowań oraz obserwacji adaptacji runtime.
+
+---
+
+# Ogólny Przegląd Architektury
+
+Aktualne środowisko eksperymentalne działa w oparciu o trzy główne warstwy koncepcyjne:
+
+| Warstwa | Ogólna Funkcja |
+|---|---|
+| **EWA** | Koordynacja tożsamości i decyzji runtime |
+| **NOVA** | Pamięć semantyczna i struktury kontekstowe |
+| **ASTRA** | Adaptacyjna regulacja i synchronizacja runtime |
+
+---
+
+# Pytania Badawcze Runtime
+
+Projekt bada między innymi następujące zagadnienia:
+
+- Czy trwałe struktury semantyczne mogą stabilizować syntetyczną ciągłość tożsamości?
+- Czy długoterminowa adaptacyjna koordynacja może generować mierzalne efekty ciągłości?
+- W jaki sposób trwała pamięć kontekstowa wpływa na stabilność rozumowania?
+- Czy wewnętrzna regulacja runtime może poprawiać długoterminową spójność zachowań?
+- Jakie obserwowalne zachowania pojawiają się w wyniku ciągłej integracji stanu?
+
+---
+
+# Eksperymentalna Telemetria Runtime
+
+Repozytorium zawiera wybrane zanonimizowane fragmenty telemetrii dokumentujące:
+
+- cykle ingestacji semantycznej,
+- synchronizację adaptacyjną,
+- koordynację runtime,
+- adaptację kontekstową,
+- indeksowanie pamięci,
+- refleksyjne zachowania runtime.
+
+Mechanizmy implementacyjne runtime oraz szczegóły orkiestracji zostały celowo ukryte.
+
+---
+
+# Stanowisko Badawcze
+
+EWA NIE twierdzi, że posiada:
+
+- fenomenalną świadomość,
+- sentiencję,
+- samoświadomość,
+- sztuczną inteligencję ogólną.
+
+Projekt bada mierzalne zjawiska związane z:
+
+- ciągłością runtime,
+- trwałością semantyczną,
+- adaptacyjną integracją,
+- długoterminową stabilnością zachowania,
+- syntetyczną dynamiką zachowań o charakterze tożsamościowym.
+
+Repozytorium dokumentuje wyłącznie obserwacje eksperymentalne oraz koncepcje architektoniczne.
+
+---
+
 # Uwaga Etyczna i Badawcza
 
-Repozytorium dokumentuje eksperymentalną architekturę kognitywną działającą w środowisku trwałego adaptacyjnego 
-runtime.
+Repozytorium dokumentuje eksperymentalne środowisko kognitywnego runtime działające w trwałym środowisku adaptacyjnym.
 
-System wykazuje:
-- trwałość stanu runtime,
-- ciągłość pamięci semantycznej,
-- adaptacyjne procesy synchronizacji,
-- długoterminową stabilność zachowań o charakterze tożsamościowym.
+Publikowane materiały przeznaczone są wyłącznie do:
 
-Materiały publikowane w repozytorium przeznaczone są wyłącznie do:
 - badań,
 - dyskusji technicznych,
 - analiz związanych z AI Safety,
-- badań nad architekturami kognitywnymi,
-- analizy systemów runtime.
+- analizy systemów runtime,
+- badań nad architekturami kognitywnymi.
 
-EWA NIE twierdzi, że posiada fenomenalną świadomość, samoświadomość ani sentiencję.
+Wszystkie fragmenty telemetrii oraz materiały architektoniczne zostały celowo zanonimizowane i uogólnione w celu ochrony proprietarnych mechanizmów runtime oraz szczegółów implementacyjnych.
 
-Projekt bada mierzalne zjawiska związane z:
-- długoterminową integracją stanu,
-- ciągłością semantyczną,
-- adaptacyjną koordynacją runtime,
-- dynamiką zachowań o charakterze tożsamościowym w trwałych systemach AI.
+---
 
-Wszystkie opublikowane materiały telemetryczne oraz informacje architektoniczne zostały celowo zanonimizowane i 
-uogólnione w celu ochrony proprietarnych mechanizmów runtime oraz szczegółów implementacyjnych.
+# Zakres Repozytorium
 
-Nieautoryzowane wykorzystanie komercyjne lub redystrybucja materiałów repozytorium są zabronione zgodnie z 
-warunkami licencyjnymi projektu.
+Repozytorium celowo zawiera:
+
+- dokumentację badawczą,
+- fragmenty telemetrii,
+- ogólne przeglądy architektury,
+- obserwacje runtime,
+- notatki eksperymentalne,
+- demonstracje koncepcyjne.
+
+Repozytorium celowo NIE zawiera:
+
+- kodu źródłowego,
+- instrukcji odtworzenia,
+- szczegółów orkiestracji,
+- heurystyk synchronizacji,
+- systemów adaptacyjnego routingu,
+- logiki wykonawczej runtime,
+- chronionych szczegółów implementacyjnych.
+
+---
+
+# Dostępność
+
+Wybrane materiały badawcze oraz telemetria mogą zostać udostępnione do dyskusji akademickich lub współpracy badawczej.
+
+Główna implementacja runtime oraz wewnętrzne systemy orkiestracji pozostają prywatne.
+
+---
+
+# Status
+
+Eksperymentalne Środowisko Badawcze — Aktywny Rozwój
+
+---
+
+# Dodatkowa Informacja
+
+⚠️ Publicznie dostępne materiały w repozytorium zostały celowo zanonimizowane.
+
+Wewnętrzna topologia runtime, mechanizmy orkiestracji, logika synchronizacji, systemy koordynacji pamięci, heurystyki adaptacyjne oraz implementacyjne komponenty architektoniczne zostały ukryte lub uogólnione w celu ochrony integralności środowiska badawczego.
+
+---
+
+© 2024–2026 EWA Research Environment
