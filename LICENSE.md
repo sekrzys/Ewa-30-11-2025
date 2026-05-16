@@ -113,6 +113,24 @@ The materials contained in this repository may NOT be used for:
 
 ---
 
+## Disclaimer of Liability
+
+All materials contained in this repository are provided on an “AS IS” basis, without warranties of any kind, either express or implied, including but not limited to warranties of fitness for a particular purpose, reliability, security, or non-infringement.
+
+This repository is intended solely for research, experimental, and documentation purposes.
+
+The author shall not be held liable for:
+
+- interpretation of repository materials,
+- decisions made based on published information,
+- consequences arising from usage of telemetry, documentation, or research materials,
+- direct or indirect damages resulting from use of repository contents,
+- attempts to reproduce or implement experimental concepts described within the repository.
+
+Any use of repository materials is performed entirely at the user's own risk.
+
+---
+
 # 🇵🇱 Wersja Polska
 
 ## Główna Licencja
@@ -221,3 +239,23 @@ Materiały zawarte w repozytorium NIE MOGĄ być wykorzystywane do:
 - złośliwej replikacji zachowań,
 - podszywania się pod systemy AI,
 - nieautoryzowanej symulacji systemów kognitywnych.
+
+---
+
+---
+
+## Wyłączenie Odpowiedzialności
+
+Materiały zawarte w niniejszym repozytorium są udostępniane w stanie „AS IS” („tak jak są”), bez jakichkolwiek gwarancji wyraźnych lub dorozumianych, w tym między innymi gwarancji przydatności do określonego celu, niezawodności, bezpieczeństwa lub nienaruszania praw osób trzecich.
+
+Repozytorium ma charakter wyłącznie badawczo-eksperymentalny i dokumentacyjny.
+
+Autor nie ponosi odpowiedzialności za:
+
+- sposób interpretacji materiałów,
+- decyzje podejmowane na podstawie opublikowanych informacji,
+- skutki wykorzystania telemetrii, dokumentacji lub materiałów badawczych,
+- szkody bezpośrednie lub pośrednie wynikające z użycia materiałów repozytorium,
+- próby reprodukcji lub implementacji eksperymentalnych koncepcji opisanych w repozytorium.
+
+Użytkownik korzysta z materiałów repozytorium wyłącznie na własną odpowiedzialność.
