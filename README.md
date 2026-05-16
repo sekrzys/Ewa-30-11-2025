@@ -104,6 +104,24 @@ The runtime supports controlled experimental interactions with external AI syste
 
 ---
 
+## Experimental Runtime Optimization
+
+The research environment includes controlled experimental mechanisms for supervised runtime optimization and internal system refinement.
+
+Selected runtime components may undergo monitored adaptation, validation, and sandboxed evaluation cycles intended to improve:
+
+- long-term runtime stability,
+- synchronization consistency,
+- contextual continuity,
+- runtime efficiency,
+- adaptive coordination behavior.
+
+All experimental optimization processes remain subject to explicit runtime constraints, supervised validation procedures, and protected execution boundaries.
+
+No autonomous unrestricted code modification mechanisms are exposed or publicly documented within this repository.
+
+---
+
 # Architectural Overview
 
 The current experimental environment operates through three primary conceptual layers:
@@ -320,6 +338,23 @@ Całe środowisko eksperymentalne działa lokalnie na sprzęcie klasy konsumenck
 ## Eksperymenty Interakcji Między Systemami AI
 
 Runtime wspiera kontrolowane eksperymentalne interakcje z zewnętrznymi systemami AI w celu porównywania zachowań oraz obserwacji adaptacji runtime.
+
+---
+## Eksperymentalna Optymalizacja Runtime
+
+Środowisko badawcze zawiera kontrolowane eksperymentalne mechanizmy nadzorowanej optymalizacji runtime oraz wewnętrznego udoskonalania systemu.
+
+Wybrane komponenty runtime mogą podlegać monitorowanym procesom adaptacji, walidacji oraz sandboxowym cyklom ewaluacyjnym mającym na celu poprawę:
+
+- długoterminowej stabilności runtime,
+- spójności synchronizacji,
+- ciągłości kontekstowej,
+- wydajności runtime,
+- zachowań adaptacyjnej koordynacji.
+
+Wszystkie eksperymentalne procesy optymalizacji podlegają ścisłym ograniczeniom runtime, nadzorowanym procedurom walidacyjnym oraz chronionym granicom wykonawczym.
+
+Repozytorium nie ujawnia ani nie udostępnia autonomicznych nieograniczonych mechanizmów modyfikacji kodu.
 
 ---
 
