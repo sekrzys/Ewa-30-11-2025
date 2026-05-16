@@ -542,4 +542,4 @@ Wewnętrzna topologia runtime, mechanizmy orkiestracji, logika synchronizacji, s
 
 ---
 
-© 2024–2026 EWA Research Environment
+© 2024–2026 sekrzys@gmail.com EWA Research Environment
