@@ -290,15 +290,6 @@ proprietary runtime mechanisms and internal implementation details.
 Unauthorized commercial usage or redistribution of repository materials is prohibited under the repository license 
 terms.
 
-Po polsku:
-Uwaga Etyczna i Badawcza
-Repozytorium dokumentuje eksperymentalną architekturę kognitywną działającą w trybie ciągłym.
-System wykazuje trwałość stanu, ciągłość pamięci oraz stabilność zachowań o charakterze tożsamościowym w długim 
-okresie czasu.
-Projekt nie twierdzi, że system posiada fenomenalną świadomość.
-Bada mierzalne zjawiska integracji i stabilności w syntetycznych architekturach poznawczych.
-Materiały projektu podlegają warunkom licencyjnym i nie mogą być wykorzystywane komercyjnie bez zgody autora.
-
 # 🇵🇱 Polish
 # Uwaga Etyczna i Badawcza
 
