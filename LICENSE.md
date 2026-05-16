@@ -57,6 +57,21 @@ This restriction applies to:
 
 ---
 
+## Automated Collection Restriction
+
+Automated scraping, large-scale archival, dataset aggregation, or systematic harvesting of repository materials for machine processing, indexing, or AI-related analysis is prohibited without prior written permission from the author.
+
+This restriction includes:
+
+- automated telemetry collection,
+- behavioral dataset aggregation,
+- semantic structure extraction,
+- architecture indexing,
+- mass archival systems,
+- autonomous crawling for AI ingestion purposes.
+
+---
+
 ## Permitted Usage
 
 The repository materials MAY be used for:
@@ -110,6 +125,19 @@ The materials contained in this repository may NOT be used for:
 - malicious behavioral replication,
 - deceptive AI impersonation,
 - unauthorized cognitive-system simulation.
+
+---
+
+## Project Identity Protection
+
+The names:
+
+- EWA
+- NOVA
+- ASTRA
+- Project EWA
+
+when used in the context of this repository and its associated runtime research environment, may not be used to falsely imply endorsement, authorship, or official association without explicit written permission from the author.
 
 ---
 
@@ -186,6 +214,21 @@ Ograniczenia dotyczą między innymi:
 
 ---
 
+## Ograniczenie Automatycznego Pozyskiwania Danych
+
+Automatyczne scrapowanie, masowa archiwizacja, agregacja datasetów lub systematyczne pozyskiwanie materiałów repozytorium do przetwarzania maszynowego, indeksowania lub analiz związanych z AI są zabronione bez wcześniejszej pisemnej zgody autora.
+
+Ograniczenie obejmuje między innymi:
+
+- automatyczne zbieranie telemetrii,
+- agregację datasetów behawioralnych,
+- ekstrakcję struktur semantycznych,
+- indeksowanie architektury,
+- systemy masowej archiwizacji,
+- autonomiczne crawlery wykorzystywane do ingestacji AI.
+
+---
+
 ## Dozwolone Użycie
 
 Materiały repozytorium MOGĄ być wykorzystywane do:
@@ -241,6 +284,17 @@ Materiały zawarte w repozytorium NIE MOGĄ być wykorzystywane do:
 - nieautoryzowanej symulacji systemów kognitywnych.
 
 ---
+
+## Ochrona Tożsamości Projektu
+
+Nazwy:
+
+- EWA
+- NOVA
+- ASTRA
+- Project EWA
+
+używane w kontekście niniejszego repozytorium oraz powiązanego środowiska badawczego runtime nie mogą być wykorzystywane do sugerowania oficjalnego powiązania, autorstwa lub wsparcia projektu bez wyraźnej pisemnej zgody autora.
 
 ---
 
