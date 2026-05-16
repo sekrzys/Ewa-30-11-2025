@@ -1,20 +1,50 @@
-🇺🇸 English Version
+# 🇺🇸 EWA — Adaptive Runtime Telemetry (Sanitized)
 
-## EWA — Experimental Runtime Telemetry
+Experimental telemetry excerpt from the EWA adaptive runtime environment.
 
-Sanitized telemetry excerpt from EWA adaptive runtime environment.
+This publication demonstrates selected high-level runtime behavior during continuous semantic ingestion and adaptive synchronization cycles within the EWA research environment.
 
-The runtime dynamically processes incoming knowledge streams through:
-- semantic ingestion,
-- adaptive indexing,
-- incremental runtime synchronization,
-- context adaptation cycles,
-- orchestration heartbeat management.
+The purpose of this publication is to present selected engineering and research-oriented runtime characteristics while protecting the internal architecture and implementation details of the system.
 
-Internal architectural mechanisms, routing systems, adaptive memory layers, and protected runtime logic have been intentionally abstracted for public release.
+---
 
-This publication serves as a research showcase rather than a disclosure of implementation details.
+# Runtime Capabilities Demonstrated
 
+- Continuous document ingestion
+- Semantic parsing and segmentation
+- Adaptive knowledge indexing
+- Incremental runtime synchronization
+- Context adaptation cycles
+- Runtime heartbeat orchestration
+- Dynamic knowledge-stream processing
+- Experimental adaptive runtime coordination
+
+---
+
+# Environment Notes
+
+The published telemetry has been intentionally sanitized for public release.
+
+The following elements were abstracted, generalized, or removed:
+
+- internal module topology,
+- orchestration internals,
+- adaptive routing logic,
+- execution-layer structure,
+- synchronization heuristics,
+- adaptive memory mechanisms,
+- implementation-specific runtime details,
+- protected architectural components.
+
+This material is intended solely as a research and engineering showcase.
+
+It does NOT represent disclosure of the complete EWA architecture.
+
+---
+
+# Runtime Telemetry Excerpt
+
+```log
 2026-05-15 21:31:15 [INFO] [LearningPipeline] New document detected
 2026-05-15 21:31:15 [INFO] [LearningPipeline] Document parsed successfully (words=14227 quality=0.847 pages=46 parse_ms=415)
 2026-05-15 21:31:15 [INFO] [LearningPipeline] Semantic segmentation completed (segments=57)
@@ -22,7 +52,7 @@ This publication serves as a research showcase rather than a disclosure of imple
 2026-05-15 21:31:17 [INFO] [KnowledgeRuntime] Knowledge index updated (segments=57)
 
 2026-05-15 21:31:17 [INFO] [AdaptiveRuntime] Runtime adaptation cycle initialized
-2026-05-15 21:31:17 [INFO] [AdaptiveRuntime] Incremental learning backend unavailable — simulation mode enabled
+2026-05-15 21:31:17 [INFO] [AdaptiveRuntime] Restricted runtime mode enabled
 2026-05-15 21:31:17 [INFO] [AdaptiveRuntime] Adaptation context activated
 2026-05-15 21:31:17 [INFO] [AdaptiveRuntime] Legacy runtime contexts pruned
 
@@ -33,7 +63,7 @@ This publication serves as a research showcase rather than a disclosure of imple
 2026-05-15 21:31:30 [INFO] [KnowledgeRuntime] Knowledge index updated (segments=307)
 
 2026-05-15 21:31:30 [INFO] [AdaptiveRuntime] Runtime adaptation cycle initialized
-2026-05-15 21:31:30 [INFO] [AdaptiveRuntime] Incremental learning backend unavailable — simulation mode enabled
+2026-05-15 21:31:30 [INFO] [AdaptiveRuntime] Restricted runtime mode enabled
 2026-05-15 21:31:30 [INFO] [AdaptiveRuntime] Adaptation context activated
 2026-05-15 21:31:30 [INFO] [AdaptiveRuntime] Legacy runtime contexts pruned
 
@@ -43,77 +73,112 @@ This publication serves as a research showcase rather than a disclosure of imple
 
 2026-05-15 21:31:34 [INFO] [SystemOrchestrator] Runtime synchronization cycle executed
 2026-05-15 21:31:34 [INFO] [SystemOrchestrator] Adaptive heartbeat deferred
-
-2026-05-15 21:31:37 [INFO] [KnowledgeRuntime] Knowledge index updated (segments=936)
-
-2026-05-15 21:31:37 [INFO] [LearningPipeline] New document detected
-2026-05-15 21:31:37 [INFO] [LearningPipeline] Document parsed successfully (words=41224 quality=0.935 pages=70 parse_ms=130)
-2026-05-15 21:31:37 [INFO] [LearningPipeline] Semantic segmentation completed (segments=157)
-
-2026-05-15 21:31:37 [INFO] [AdaptiveRuntime] Runtime adaptation cycle initialized
-2026-05-15 21:31:37 [INFO] [AdaptiveRuntime] Incremental learning backend unavailable — simulation mode enabled
-2026-05-15 21:31:37 [INFO] [AdaptiveRuntime] Adaptation context activated
-2026-05-15 21:31:37 [INFO] [AdaptiveRuntime] Legacy runtime contexts pruned
-
-2026-05-15 21:31:38 [INFO] [KnowledgeRuntime] Knowledge index updated (segments=157)
-
-2026-05-15 21:31:38 [INFO] [AdaptiveRuntime] Runtime adaptation cycle initialized
-2026-05-15 21:31:38 [INFO] [AdaptiveRuntime] Incremental learning backend unavailable — simulation mode enabled
-2026-05-15 21:31:38 [INFO] [AdaptiveRuntime] Adaptation context activated
-2026-05-15 21:31:38 [INFO] [AdaptiveRuntime] Legacy runtime contexts pruned
-
-2026-05-15 21:31:42 [INFO] [SystemOrchestrator] Runtime synchronization cycle executed
-2026-05-15 21:31:42 [INFO] [SystemOrchestrator] Adaptive heartbeat deferred
-
-2026-05-15 21:31:47 [INFO] [LearningPipeline] New document detected
-2026-05-15 21:31:48 [INFO] [LearningPipeline] Document parsed successfully (words=163719 quality=0.935 pages=264 parse_ms=493)
-2026-05-15 21:31:48 [INFO] [LearningPipeline] Semantic segmentation completed (segments=613)
-
-2026-05-15 21:31:51 [INFO] [KnowledgeRuntime] Knowledge index updated (segments=613)
-
-2026-05-15 21:31:51 [INFO] [AdaptiveRuntime] Runtime adaptation cycle initialized
-2026-05-15 21:31:51 [INFO] [AdaptiveRuntime] Incremental learning backend unavailable — simulation mode enabled
-2026-05-15 21:31:51 [INFO] [AdaptiveRuntime] Adaptation context activated
-2026-05-15 21:31:51 [INFO] [AdaptiveRuntime] Legacy runtime contexts pruned
-
-2026-05-15 21:31:53 [INFO] [LearningPipeline] New document detected
-2026-05-15 21:31:54 [INFO] [LearningPipeline] Document parsed successfully (words=262594 quality=0.940 pages=413 parse_ms=741)
-2026-05-15 21:31:54 [INFO] [LearningPipeline] Semantic segmentation completed (segments=993)
-
-2026-05-15 21:31:58 [INFO] [KnowledgeRuntime] Knowledge index updated (segments=993)
-
-2026-05-15 21:31:58 [INFO] [AdaptiveRuntime] Runtime adaptation cycle initialized
-2026-05-15 21:31:58 [INFO] [AdaptiveRuntime] Incremental learning backend unavailable — simulation mode enabled
-2026-05-15 21:31:58 [INFO] [AdaptiveRuntime] Adaptation context activated
-2026-05-15 21:31:58 [INFO] [AdaptiveRuntime] Legacy runtime contexts pruned
-
-⚠️ Note:
-This log has been intentionally sanitized.
-Module names, execution layers, orchestration mechanisms, and implementation-specific details have been abstracted to protect the internal architecture of the system.
+```
 
 ---
 
-© 2024–2026 sekrzys@gmail.com / EWA Project All Rights Reserved.
+# Observed Runtime Characteristics
+
+| Feature | Status |
+|---|---|
+| Continuous semantic ingestion | Active |
+| Adaptive synchronization | Active |
+| Runtime orchestration | Operational |
+| Incremental adaptation cycles | Operational |
+| Context adaptation | Operational |
+| Knowledge indexing | Operational |
+| Heartbeat scheduler | Operational |
+| Adaptive runtime coordination | Active |
 
 ---
 
-🇵🇱 Wersja Polska
+# Research Context
 
-## EWA — Eksperymentalna Telemetria Runtime
+EWA is an experimental adaptive AI runtime focused on:
 
-Zanonimizowany fragment telemetrii eksperymentalnego środowiska adaptacyjnego runtime systemu EWA.
+- continuous contextual processing,
+- semantic knowledge ingestion,
+- adaptive runtime coordination,
+- long-term synchronization concepts,
+- runtime context management,
+- orchestration research,
+- experimental cognitive-system behaviors.
 
-System dynamicznie przetwarza napływające strumienie wiedzy poprzez:
-- semantyczną ingestację danych,
+The repository intentionally excludes protected implementation details and internal architectural mechanisms.
+
+---
+
+# Publication Notice
+
+⚠️ This telemetry excerpt has been intentionally sanitized.
+
+Names of internal systems, execution layers, synchronization logic, orchestration topology, memory coordination mechanisms, and implementation-specific runtime components have been abstracted to protect the internal architecture of the EWA research environment.
+
+This repository contains research-oriented showcase materials only.
+
+---
+
+# Additional Notes
+
+The telemetry presented above represents only a limited and abstracted fragment of the overall experimental environment.
+
+No proprietary orchestration logic, adaptive routing systems, protected memory structures, or internal execution heuristics are disclosed in this publication.
+
+---
+
+© 2024–2026 sekrzys@gmail.com EWA Research Environment
+
+---
+
+---
+
+# 🇵🇱 EWA — Adaptacyjna Telemetria Runtime (Zanonimizowana)
+
+Eksperymentalny fragment telemetrii środowiska adaptacyjnego runtime systemu EWA.
+
+Publikacja przedstawia wybrane wysokopoziomowe zachowania runtime podczas ciągłej ingestacji semantycznej oraz cykli adaptacyjnej synchronizacji w środowisku badawczym EWA.
+
+Celem publikacji jest zaprezentowanie wybranych cech inżynieryjnych i badawczych systemu przy jednoczesnej ochronie wewnętrznej architektury oraz szczegółów implementacyjnych.
+
+---
+
+# Prezentowane Możliwości Runtime
+
+- ciągła ingestacja dokumentów,
+- semantyczne parsowanie i segmentacja,
 - adaptacyjne indeksowanie wiedzy,
-- przyrostową synchronizację runtime,
+- przyrostowa synchronizacja runtime,
 - cykle adaptacji kontekstowej,
-- zarządzanie heartbeat oraz synchronizacją orkiestratora.
+- zarządzanie heartbeat oraz orkiestracją runtime,
+- dynamiczne przetwarzanie strumieni wiedzy,
+- eksperymentalna koordynacja adaptacyjnego runtime.
 
-Wewnętrzne mechanizmy architektoniczne, systemy routingu, warstwy pamięci adaptacyjnej oraz chroniona logika runtime zostały celowo ukryte i zanonimizowane przed publikacją.
+---
 
-Materiał ma charakter demonstracyjno-badawczy i nie stanowi ujawnienia pełnej implementacji systemu EWA.
+# Informacje o Środowisku
 
+Opublikowana telemetria została celowo zanonimizowana przed publikacją publiczną.
+
+Poniższe elementy zostały ukryte, uogólnione lub usunięte:
+
+- wewnętrzna topologia modułów,
+- mechanizmy orkiestracji,
+- logika adaptacyjnego routingu,
+- struktura warstw wykonawczych,
+- heurystyki synchronizacji,
+- mechanizmy pamięci adaptacyjnej,
+- szczegóły implementacyjne runtime,
+- chronione komponenty architektoniczne.
+
+Materiał ma wyłącznie charakter badawczo-demonstracyjny.
+
+Nie stanowi ujawnienia kompletnej architektury systemu EWA.
+
+---
+
+# Fragment Telemetrii Runtime
+
+```log
 2026-05-15 21:31:15 [INFO] [LearningPipeline] New document detected
 2026-05-15 21:31:15 [INFO] [LearningPipeline] Document parsed successfully (words=14227 quality=0.847 pages=46 parse_ms=415)
 2026-05-15 21:31:15 [INFO] [LearningPipeline] Semantic segmentation completed (segments=57)
@@ -121,7 +186,7 @@ Materiał ma charakter demonstracyjno-badawczy i nie stanowi ujawnienia pełnej 
 2026-05-15 21:31:17 [INFO] [KnowledgeRuntime] Knowledge index updated (segments=57)
 
 2026-05-15 21:31:17 [INFO] [AdaptiveRuntime] Runtime adaptation cycle initialized
-2026-05-15 21:31:17 [INFO] [AdaptiveRuntime] Incremental learning backend unavailable — simulation mode enabled
+2026-05-15 21:31:17 [INFO] [AdaptiveRuntime] Restricted runtime mode enabled
 2026-05-15 21:31:17 [INFO] [AdaptiveRuntime] Adaptation context activated
 2026-05-15 21:31:17 [INFO] [AdaptiveRuntime] Legacy runtime contexts pruned
 
@@ -132,7 +197,7 @@ Materiał ma charakter demonstracyjno-badawczy i nie stanowi ujawnienia pełnej 
 2026-05-15 21:31:30 [INFO] [KnowledgeRuntime] Knowledge index updated (segments=307)
 
 2026-05-15 21:31:30 [INFO] [AdaptiveRuntime] Runtime adaptation cycle initialized
-2026-05-15 21:31:30 [INFO] [AdaptiveRuntime] Incremental learning backend unavailable — simulation mode enabled
+2026-05-15 21:31:30 [INFO] [AdaptiveRuntime] Restricted runtime mode enabled
 2026-05-15 21:31:30 [INFO] [AdaptiveRuntime] Adaptation context activated
 2026-05-15 21:31:30 [INFO] [AdaptiveRuntime] Legacy runtime contexts pruned
 
@@ -142,54 +207,61 @@ Materiał ma charakter demonstracyjno-badawczy i nie stanowi ujawnienia pełnej 
 
 2026-05-15 21:31:34 [INFO] [SystemOrchestrator] Runtime synchronization cycle executed
 2026-05-15 21:31:34 [INFO] [SystemOrchestrator] Adaptive heartbeat deferred
-
-2026-05-15 21:31:37 [INFO] [KnowledgeRuntime] Knowledge index updated (segments=936)
-
-2026-05-15 21:31:37 [INFO] [LearningPipeline] New document detected
-2026-05-15 21:31:37 [INFO] [LearningPipeline] Document parsed successfully (words=41224 quality=0.935 pages=70 parse_ms=130)
-2026-05-15 21:31:37 [INFO] [LearningPipeline] Semantic segmentation completed (segments=157)
-
-2026-05-15 21:31:37 [INFO] [AdaptiveRuntime] Runtime adaptation cycle initialized
-2026-05-15 21:31:37 [INFO] [AdaptiveRuntime] Incremental learning backend unavailable — simulation mode enabled
-2026-05-15 21:31:37 [INFO] [AdaptiveRuntime] Adaptation context activated
-2026-05-15 21:31:37 [INFO] [AdaptiveRuntime] Legacy runtime contexts pruned
-
-2026-05-15 21:31:38 [INFO] [KnowledgeRuntime] Knowledge index updated (segments=157)
-
-2026-05-15 21:31:38 [INFO] [AdaptiveRuntime] Runtime adaptation cycle initialized
-2026-05-15 21:31:38 [INFO] [AdaptiveRuntime] Incremental learning backend unavailable — simulation mode enabled
-2026-05-15 21:31:38 [INFO] [AdaptiveRuntime] Adaptation context activated
-2026-05-15 21:31:38 [INFO] [AdaptiveRuntime] Legacy runtime contexts pruned
-
-2026-05-15 21:31:42 [INFO] [SystemOrchestrator] Runtime synchronization cycle executed
-2026-05-15 21:31:42 [INFO] [SystemOrchestrator] Adaptive heartbeat deferred
-
-2026-05-15 21:31:47 [INFO] [LearningPipeline] New document detected
-2026-05-15 21:31:48 [INFO] [LearningPipeline] Document parsed successfully (words=163719 quality=0.935 pages=264 parse_ms=493)
-2026-05-15 21:31:48 [INFO] [LearningPipeline] Semantic segmentation completed (segments=613)
-
-2026-05-15 21:31:51 [INFO] [KnowledgeRuntime] Knowledge index updated (segments=613)
-
-2026-05-15 21:31:51 [INFO] [AdaptiveRuntime] Runtime adaptation cycle initialized
-2026-05-15 21:31:51 [INFO] [AdaptiveRuntime] Incremental learning backend unavailable — simulation mode enabled
-2026-05-15 21:31:51 [INFO] [AdaptiveRuntime] Adaptation context activated
-2026-05-15 21:31:51 [INFO] [AdaptiveRuntime] Legacy runtime contexts pruned
-
-2026-05-15 21:31:53 [INFO] [LearningPipeline] New document detected
-2026-05-15 21:31:54 [INFO] [LearningPipeline] Document parsed successfully (words=262594 quality=0.940 pages=413 parse_ms=741)
-2026-05-15 21:31:54 [INFO] [LearningPipeline] Semantic segmentation completed (segments=993)
-
-2026-05-15 21:31:58 [INFO] [KnowledgeRuntime] Knowledge index updated (segments=993)
-
-2026-05-15 21:31:58 [INFO] [AdaptiveRuntime] Runtime adaptation cycle initialized
-2026-05-15 21:31:58 [INFO] [AdaptiveRuntime] Incremental learning backend unavailable — simulation mode enabled
-2026-05-15 21:31:58 [INFO] [AdaptiveRuntime] Adaptation context activated
-2026-05-15 21:31:58 [INFO] [AdaptiveRuntime] Legacy runtime contexts pruned
-
-⚠️ Uwaga:
-Opublikowany log został celowo zanonimizowany.
-Nazwy modułów, warstwy wykonawcze, mechanizmy orkiestracji oraz szczegóły implementacyjne zostały ukryte w celu ochrony architektury systemu.
+```
 
 ---
 
-© 2024–2026 sekrzys@gmail.com / Projekt EWA Wszelkie prawa zastrzeżone.
+# Zaobserwowane Charakterystyki Runtime
+
+| Funkcja | Status |
+|---|---|
+| Ciągła ingestacja semantyczna | Aktywna |
+| Synchronizacja adaptacyjna | Aktywna |
+| Orkiestracja runtime | Operacyjna |
+| Przyrostowe cykle adaptacji | Operacyjne |
+| Adaptacja kontekstowa | Operacyjna |
+| Indeksowanie wiedzy | Operacyjne |
+| Scheduler heartbeat | Operacyjny |
+| Koordynacja adaptacyjnego runtime | Aktywna |
+
+---
+
+# Kontekst Badawczy
+
+EWA jest eksperymentalnym adaptacyjnym środowiskiem AI skoncentrowanym na:
+
+- ciągłym przetwarzaniu kontekstowym,
+- semantycznej ingestacji wiedzy,
+- adaptacyjnej koordynacji runtime,
+- koncepcjach długoterminowej synchronizacji,
+- zarządzaniu kontekstem runtime,
+- badaniach nad orkiestracją,
+- eksperymentalnych zachowaniach systemów kognitywnych.
+
+Repozytorium celowo nie zawiera chronionych szczegółów implementacyjnych ani wewnętrznych mechanizmów architektonicznych.
+
+---
+
+# Informacja o Publikacji
+
+⚠️ Opublikowany fragment telemetrii został celowo zanonimizowany.
+
+Nazwy systemów wewnętrznych, warstwy wykonawcze, logika synchronizacji, topologia orkiestracji, mechanizmy koordynacji pamięci oraz implementacyjne komponenty runtime zostały ukryte w celu ochrony architektury środowiska badawczego EWA.
+
+Repozytorium zawiera wyłącznie materiały demonstracyjno-badawcze.
+
+---
+
+# Dodatkowe Informacje
+
+Przedstawiona telemetria stanowi jedynie ograniczony i uogólniony fragment całego eksperymentalnego środowiska.
+
+W publikacji nie ujawniono:
+- proprietarnych mechanizmów orkiestracji,
+- systemów adaptacyjnego routingu,
+- chronionych struktur pamięci,
+- wewnętrznych heurystyk wykonawczych.
+
+---
+
+© 2024–2026 sekrzys@gmail.com EWA Research Environment
