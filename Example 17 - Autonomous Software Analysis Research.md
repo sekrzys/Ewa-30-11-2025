@@ -200,6 +200,7 @@ if __name__ == "__main__":
 
 ## Complete EWA Analysis Report:
 
+```text
 ℹ️ Klasa `CorruptedMeta` dziedziczy z `type` — metaklasa. (linia 64)
 ℹ️ Pętla while: `len(leak) < 1000000`. (linia 58)
 ℹ️ Blok try/except (1 handler(s): ['Exception']). (linia 101)
@@ -407,6 +408,7 @@ if __name__ == "__main__":
 
 ## Complete EWA Analysis Report:
 
+```text
 ℹ️ Blok try/except (0 handler(s): []). (linia 16)
 ℹ️ Rozgałęzienie warunkowe: `if __name__ == '__main__'`. (linia 46)
 ℹ️ Magic method `__init__` — konstruktor instancji. (linia 23)
@@ -679,6 +681,7 @@ if __name__ == "__main__":
 
 ## Complete EWA Analysis Report:
 
+```text
 [FIXER] ✅ lambda late binding fixed
 ❌ RCE: `exec()` — dynamiczne wykonanie kodu Python. (linia 51)
 ❌ RCE: `exec()` — dynamiczne wykonanie kodu Python. (linia 106)
@@ -1140,6 +1143,7 @@ if __name__ == "__main__":
 
 ## Pełny raport analizy EWA:
 
+```text
 ℹ️ Klasa `CorruptedMeta` dziedziczy z `type` — metaklasa. (linia 64)
 ℹ️ Pętla while: `len(leak) < 1000000`. (linia 58)
 ℹ️ Blok try/except (1 handler(s): ['Exception']). (linia 101)
@@ -1347,6 +1351,7 @@ if __name__ == "__main__":
 
 ## Pełny raport analizy EWA:
 
+```text
 ℹ️ Blok try/except (0 handler(s): []). (linia 16)
 ℹ️ Rozgałęzienie warunkowe: `if __name__ == '__main__'`. (linia 46)
 ℹ️ Magic method `__init__` — konstruktor instancji. (linia 23)
@@ -1619,6 +1624,7 @@ if __name__ == "__main__":
 
 ## Pełny raport analizy EWA:
 
+```text
 [FIXER] ✅ lambda late binding fixed
 ❌ RCE: `exec()` — dynamiczne wykonanie kodu Python. (linia 51)
 ❌ RCE: `exec()` — dynamiczne wykonanie kodu Python. (linia 106)
