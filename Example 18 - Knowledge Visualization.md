@@ -19,7 +19,7 @@ The interface provides a comprehensive set of research and visualization tools, 
 
 Displays the complete observable graph, providing a high-level overview of the entire visualized structure.
 
-![Global Overview](images/dashboard/overview.png)
+![Global Overview](images/Overview.png)
 
 ---
 
@@ -27,7 +27,7 @@ Displays the complete observable graph, providing a high-level overview of the e
 
 Illustrates the density and complexity of large interconnected regions visible within the graph.
 
-![Large Scale Structure](images/dashboard/large_scale_structure.png)
+![Large Scale Structure](images/Large-Scale_Memory_Structure.png)
 
 ---
 
@@ -35,7 +35,7 @@ Illustrates the density and complexity of large interconnected regions visible w
 
 Example of detailed exploration of a selected graph region and its local relationships.
 
-![Cluster Inspection](images/dashboard/cluster_inspection.png)
+![Cluster Inspection](images/Cluster_Inspection.png)
 
 ---
 
@@ -43,7 +43,7 @@ Example of detailed exploration of a selected graph region and its local relatio
 
 Demonstrates interactive filtering of one category of graph entities, allowing focused inspection of a selected subset.
 
-![Filtered Meta](images/dashboard/meta.png)
+![Filtered View A](images/Meta_1.png)
 
 ---
 
@@ -51,7 +51,7 @@ Demonstrates interactive filtering of one category of graph entities, allowing f
 
 Example of selective visualization highlighting another category of graph entities.
 
-![Filtered Axiomatic Clarity](images/dashboard/axiomatic_clarity.png)
+![Filtered View B](images/Meta_2.png)
 
 ---
 
@@ -59,7 +59,7 @@ Example of selective visualization highlighting another category of graph entiti
 
 Illustrates focused exploration using an additional visualization filter.
 
-![Filtered Meta-Axiology](images/dashboard/meta_axiology.png)
+![Filtered Meta-Axiology](images/mmeta-aksjologia_1.png)
 
 ---
 
@@ -111,7 +111,7 @@ Interfejs udostępnia między innymi:
 
 Przedstawia pełną obserwowalną strukturę grafu oraz jego ogólną organizację.
 
-![Widok ogólny](images/dashboard/overview.png)
+![Widok ogólny](images/Overview.png))
 
 ---
 
@@ -119,7 +119,7 @@ Przedstawia pełną obserwowalną strukturę grafu oraz jego ogólną organizacj
 
 Pokazuje gęstość oraz złożoność dużych, wzajemnie powiązanych obszarów grafu.
 
-![Struktura wielkoskalowa](images/dashboard/large_scale_structure.png)
+![Struktura wielkoskalowa](images/Large-Scale_Memory_Structure.png)
 
 ---
 
@@ -127,7 +127,7 @@ Pokazuje gęstość oraz złożoność dużych, wzajemnie powiązanych obszarów
 
 Przykład szczegółowej eksploracji wybranego fragmentu grafu oraz jego lokalnych powiązań.
 
-![Analiza klastra](images/dashboard/cluster_inspection.png)
+![Analiza klastra](images/Cluster_Inspection.png)
 
 ---
 
@@ -135,7 +135,7 @@ Przykład szczegółowej eksploracji wybranego fragmentu grafu oraz jego lokalny
 
 Przykład wykorzystania filtrów umożliwiających analizę wybranej kategorii elementów grafu.
 
-![Meta](images/dashboard/meta.png)
+![Meta](images/Meta_1.png)
 
 ---
 
@@ -143,7 +143,7 @@ Przykład wykorzystania filtrów umożliwiających analizę wybranej kategorii e
 
 Przykład selektywnej wizualizacji innej kategorii elementów grafu.
 
-![Axiomatic Clarity](images/dashboard/axiomatic_clarity.png)
+![Axiomatic Clarity](images/Meta_2.png)
 
 ---
 
@@ -151,7 +151,7 @@ Przykład selektywnej wizualizacji innej kategorii elementów grafu.
 
 Przykład eksploracji z wykorzystaniem dodatkowego filtra wizualizacji.
 
-![Meta-Axiology](images/dashboard/meta_axiology.png)
+![Meta-Axiology](images/meta-aksjologia_1.png)
 
 ---
 
