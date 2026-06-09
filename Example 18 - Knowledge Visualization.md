@@ -111,7 +111,7 @@ Interfejs udostępnia między innymi:
 
 Przedstawia pełną obserwowalną strukturę grafu oraz jego ogólną organizację.
 
-![Widok ogólny](images/Overview.png))
+![Widok ogólny](images/Overview.png)
 
 ---
 
