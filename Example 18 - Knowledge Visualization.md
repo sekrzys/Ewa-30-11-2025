@@ -1,153 +1,161 @@
-# Journal Graph Dashboard
+# 🇺🇸 Journal Graph Dashboard
 
-The Journal Graph Dashboard is an interactive research interface developed for exploring the observable behavior of EWA's long-term knowledge representation.
+The **Journal Graph Dashboard** is an interactive research interface developed for exploring the observable behavior of EWA through large-scale graph visualizations.
 
-Instead of presenting information as a traditional chronological list, the dashboard visualizes relationships between stored observations, allowing complex structures to be inspected from multiple perspectives.
+Rather than presenting information as a traditional chronological list, the dashboard enables interactive exploration of relationships between visualized entities, allowing complex structures to be inspected from multiple perspectives.
 
-The interface provides powerful tools for interactive exploration, including:
+The interface provides a comprehensive set of research and visualization tools, including:
 
-- global visualization of large knowledge structures,
-- dynamic filtering of graph elements,
-- inspection of relationships between connected records,
-- metadata-based search,
-- interactive navigation through graph regions,
-- export of visualization data for further research.
-
-The screenshots below present several examples of different visualization modes available within the dashboard.
-
-## Figure 1 — Global Overview
-
-Displays the complete observable graph, providing a high-level view of the overall knowledge structure.
-
-![Global Overview](images/Overview.png)
+- Global visualization of large graph structures
+- Dynamic filtering of graph elements
+- Inspection of relationships between connected records
+- Metadata-based search
+- Interactive navigation through graph regions
+- Export of visualization data for further research
 
 ---
 
-## Figure 2 — Large Scale Structure
+## Global Overview
 
-Illustrates the density and complexity of large interconnected graph regions.
+Displays the complete observable graph, providing a high-level overview of the entire visualized structure.
 
-![Large Scale Structure](images/Large-Scale_Memory_Structure_3.png)
-
----
-
-## Figure 3 — Cluster Inspection
-
-Example of detailed inspection of selected graph regions and their local relationships.
-
-![Cluster Inspection](images/Cluster_Inspection.png)
+![Global Overview](images/dashboard/overview.png)
 
 ---
 
-## Figure 4 — Filtered View A
+## Large-Scale Structure
 
-Example of interactive filtering, allowing individual categories of information to be inspected independently.
+Illustrates the density and complexity of large interconnected regions visible within the graph.
 
-![Filtered View A](images/Meta_1.png)
-
----
-
-## Figure 5 — Filtered View B
-
-Another example demonstrating selective visualization of specific graph regions.
-
-![Filtered View B](images/Meta_2.png)
+![Large Scale Structure](images/dashboard/large_scale_structure.png)
 
 ---
 
-## Figure 6 — Filtered View C
+## Cluster Inspection
 
-Example of focused exploration using custom visualization filters.
+Example of detailed exploration of a selected graph region and its local relationships.
 
-![Filtered View C](images/meta-aksjologia_1.png)
+![Cluster Inspection](images/dashboard/cluster_inspection.png)
 
 ---
 
-All screenshots have been fully anonymized before publication.
+## Filtered View — Meta
+
+Demonstrates interactive filtering of one category of graph entities, allowing focused inspection of a selected subset.
+
+![Filtered Meta](images/dashboard/meta.png)
+
+---
+
+## Filtered View — Axiomatic Clarity
+
+Example of selective visualization highlighting another category of graph entities.
+
+![Filtered Axiomatic Clarity](images/dashboard/axiomatic_clarity.png)
+
+---
+
+## Filtered View — Meta-Axiology
+
+Illustrates focused exploration using an additional visualization filter.
+
+![Filtered Meta-Axiology](images/dashboard/meta_axiology.png)
+
+---
+
+## Privacy Notice
+
+All screenshots presented in this document have been fully anonymized prior to publication.
 
 Personal information, private identifiers and sensitive data have been removed or replaced with non-identifiable values.
 
-The purpose of this publication is to demonstrate the observable capabilities of the visualization interface only.
+The purpose of this publication is solely to demonstrate the observable capabilities of the visualization interface.
+
+---
+
+## Intellectual Property
 
 This repository intentionally does **not** disclose:
 
-- internal algorithms,
-- reasoning mechanisms,
-- graph construction methods,
-- relationship computation,
-- memory organization,
-- model orchestration,
-- prompt engineering,
-- implementation details,
-- or any proprietary components of the EWA platform.
+- Internal algorithms
+- Reasoning mechanisms
+- Graph generation methods
+- Relationship computation
+- Model orchestration
+- Prompt engineering
+- Implementation details
+- Proprietary technologies
+- Internal components of the EWA platform
 
-The Journal Graph Dashboard serves exclusively as a research and debugging interface for visual inspection of large-scale knowledge structures while preserving the intellectual property of the EWA project.
+The **Journal Graph Dashboard** serves exclusively as a research and debugging interface for visual inspection of large-scale graph structures while preserving the intellectual property of the EWA project.
 
+---
+# 🇵🇱 Journal Graph Dashboard
 
-# Journal Graph Dashboard
+**Journal Graph Dashboard** jest interaktywnym interfejsem badawczym opracowanym do eksploracji obserwowalnego działania systemu EWA za pomocą wielkoskalowych wizualizacji grafowych.
 
-Journal Graph Dashboard jest interaktywnym interfejsem badawczym opracowanym do eksploracji obserwowalnego zachowania reprezentacji wiedzy systemu EWA.
-
-Zamiast prezentować informacje wyłącznie jako chronologiczną historię, dashboard umożliwia wizualizację relacji pomiędzy zapisanymi obserwacjami, pozwalając analizować złożone struktury z wielu różnych perspektyw.
+Zamiast prezentować informacje wyłącznie jako chronologiczną historię, dashboard umożliwia interaktywną analizę relacji pomiędzy wizualizowanymi elementami, pozwalając badać złożone struktury z wielu różnych perspektyw.
 
 Interfejs udostępnia między innymi:
 
-- wizualizację dużych struktur wiedzy,
-- dynamiczne filtrowanie elementów grafu,
-- analizę powiązań pomiędzy rekordami,
-- wyszukiwanie na podstawie metadanych,
-- interaktywną eksplorację wybranych obszarów grafu,
-- eksport danych wizualizacji do dalszych analiz.
+- Wizualizację dużych struktur grafowych
+- Dynamiczne filtrowanie elementów grafu
+- Analizę powiązań pomiędzy połączonymi rekordami
+- Wyszukiwanie na podstawie metadanych
+- Interaktywną eksplorację wybranych obszarów grafu
+- Eksport danych wizualizacji do dalszych analiz
 
-Poniższe zrzuty ekranu przedstawiają wybrane przykłady różnych trybów pracy dashboardu.
+---
 
-## Rysunek 1 — Widok ogólny
+## Widok ogólny
 
 Przedstawia pełną obserwowalną strukturę grafu oraz jego ogólną organizację.
 
-![Widok ogólny](images/Overview.png)
+![Widok ogólny](images/dashboard/overview.png)
 
 ---
 
-## Rysunek 2 — Struktura wielkoskalowa
+## Struktura wielkoskalowa
 
-Pokazuje złożoność oraz gęstość połączeń występujących w dużych fragmentach grafu.
+Pokazuje gęstość oraz złożoność dużych, wzajemnie powiązanych obszarów grafu.
 
-![Struktura wielkoskalowa](images/Large-Scale_Memory_Structure_3.png)
-
----
-
-## Rysunek 3 — Analiza klastra
-
-Przykład szczegółowej eksploracji wybranego fragmentu grafu oraz lokalnych powiązań.
-
-![Analiza klastra](images/Cluster_Inspection.png)
+![Struktura wielkoskalowa](images/dashboard/large_scale_structure.png)
 
 ---
 
-## Rysunek 4 — Widok filtrowany A
+## Analiza klastra
 
-Przykład wykorzystania filtrów umożliwiających analizę wybranych kategorii informacji.
+Przykład szczegółowej eksploracji wybranego fragmentu grafu oraz jego lokalnych powiązań.
 
-![Widok filtrowany A](images/Meta_1.png)
-
----
-
-## Rysunek 5 — Widok filtrowany B
-
-Przykład selektywnej wizualizacji wybranych fragmentów grafu.
-
-![Widok filtrowany B](images/Meta_2.png)
+![Analiza klastra](images/dashboard/cluster_inspection.png)
 
 ---
 
-## Rysunek 6 — Widok filtrowany C
+## Widok filtrowany — Meta
 
-Przykład eksploracji z wykorzystaniem dedykowanych filtrów wizualizacji.
+Przykład wykorzystania filtrów umożliwiających analizę wybranej kategorii elementów grafu.
 
-![Widok filtrowany C](images/meta-aksjologia_1.png)
+![Meta](images/dashboard/meta.png)
 
 ---
+
+## Widok filtrowany — Axiomatic Clarity
+
+Przykład selektywnej wizualizacji innej kategorii elementów grafu.
+
+![Axiomatic Clarity](images/dashboard/axiomatic_clarity.png)
+
+---
+
+## Widok filtrowany — Meta-Axiology
+
+Przykład eksploracji z wykorzystaniem dodatkowego filtra wizualizacji.
+
+![Meta-Axiology](images/dashboard/meta_axiology.png)
+
+---
+
+## Informacja o prywatności
 
 Wszystkie przedstawione zrzuty ekranu zostały całkowicie zanonimizowane przed publikacją.
 
@@ -155,20 +163,26 @@ Dane osobowe, identyfikatory oraz informacje prywatne zostały usunięte lub zas
 
 Celem publikacji jest wyłącznie zaprezentowanie możliwości interfejsu wizualizacyjnego.
 
+---
+
+## Ochrona własności intelektualnej
+
 Repozytorium celowo **nie ujawnia**:
 
-- algorytmów wewnętrznych,
-- mechanizmów wnioskowania,
-- sposobu budowy grafu,
-- metod wyznaczania relacji,
-- organizacji pamięci,
-- sposobu orkiestracji modeli,
-- prompt engineeringu,
-- szczegółów implementacyjnych,
-- ani żadnych własnościowych komponentów platformy EWA.
+- Algorytmów wewnętrznych
+- Mechanizmów wnioskowania
+- Metod generowania grafu
+- Sposobu wyznaczania relacji
+- Sposobu orkiestracji modeli
+- Prompt engineeringu
+- Szczegółów implementacyjnych
+- Technologii własnościowych
+- Wewnętrznych komponentów platformy EWA
 
-Journal Graph Dashboard pełni wyłącznie rolę narzędzia badawczego i diagnostycznego, umożliwiającego wizualną analizę dużych struktur wiedzy przy jednoczesnym zachowaniu ochrony własności intelektualnej projektu EWA.
+**Journal Graph Dashboard** pełni wyłącznie rolę narzędzia badawczego i diagnostycznego, umożliwiającego wizualną analizę dużych struktur grafowych przy jednoczesnym zachowaniu ochrony własności intelektualnej projektu EWA.
 
 ---
 
 © 2024–2026 sekrzys@gmail.com EWA Research Environment
+
+All Rights Reserved.
