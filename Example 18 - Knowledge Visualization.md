@@ -27,7 +27,7 @@ Displays the complete observable graph, providing a high-level overview of the e
 
 Illustrates the density and complexity of large interconnected regions visible within the graph.
 
-![Large Scale Structure](images/Large-Scale_Memory_Structure.png)
+![Large Scale Structure](images/Large-Scale_Memory_Structure_3.png)
 
 ---
 
