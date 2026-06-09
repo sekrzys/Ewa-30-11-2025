@@ -59,7 +59,7 @@ Example of selective visualization highlighting another category of graph entiti
 
 Illustrates focused exploration using an additional visualization filter.
 
-![Filtered Meta-Axiology](images/mmeta-aksjologia_1.png)
+![Filtered Meta-Axiology](images/meta-aksjologia_1.png)
 
 ---
 
@@ -119,7 +119,7 @@ Przedstawia pełną obserwowalną strukturę grafu oraz jego ogólną organizacj
 
 Pokazuje gęstość oraz złożoność dużych, wzajemnie powiązanych obszarów grafu.
 
-![Struktura wielkoskalowa](images/Large-Scale_Memory_Structure.png)
+![Struktura wielkoskalowa](images/Large-Scale_Memory_Structure_3.png)
 
 ---
 
