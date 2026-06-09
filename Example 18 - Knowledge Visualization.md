@@ -27,7 +27,7 @@ Displays the complete observable graph, providing a high-level view of the overa
 
 Illustrates the density and complexity of large interconnected graph regions.
 
-![Large Scale Structure](images/Large-Scale_Memory_Structure.png)
+![Large Scale Structure](images/Large-Scale_Memory_Structure_3.png)
 
 ---
 
@@ -113,7 +113,7 @@ Przedstawia pełną obserwowalną strukturę grafu oraz jego ogólną organizacj
 
 Pokazuje złożoność oraz gęstość połączeń występujących w dużych fragmentach grafu.
 
-![Struktura wielkoskalowa](images/Large-Scale_Memory_Structure.png)
+![Struktura wielkoskalowa](images/Large-Scale_Memory_Structure_3.png)
 
 ---
 
